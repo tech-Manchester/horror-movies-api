@@ -7,6 +7,15 @@
  "director":"Andy Newbery",
  },
  
+ "id":1,
+"name":"Host",
+"yearReleased":"2020",
+"language":"English",
+ "director":"Andy Newbery",
+ },
+
+\
+ 
  {
 "id":2,
 "name":"Wrong Turn",
@@ -14,5 +23,6 @@
 "language":"English",
 "director":"Mike P. Nelson",
 }
+ 
 ]
   
