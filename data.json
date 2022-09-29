@@ -5,7 +5,14 @@
 "yearReleased":"2020",
 "language":"English",
  "director":"Andy Newbery",
- }
-
-  ]
+ },
+ 
+ {
+"id":2,
+"name":"Wrong Turn",
+"yearReleased":"2021",
+"language":"English",
+"director":"Mike P. Nelson",
+}
+]
   
