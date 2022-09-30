@@ -113,6 +113,34 @@
     },
     {
         "id": 17,
+        "name": "Paranormal Activity",
+        "yearReleased": "2007",
+        "language": "English",
+        "director": "Oren Peli"
+    },
+    {
+        "id": 18,
+        "name": "Paranormal Activity 2",
+        "yearReleased": "2010",
+        "language": "English",
+        "director": "Tod Williams"
+    },
+    {
+        "id": 19,
+        "name": "Paranormal Activity 3",
+        "yearReleased": "2011",
+        "language": "English",
+        "director": "Henry joost,Ariel Schulman"
+    },
+    {
+        "id": 20,
+        "name": "Paranormal Activity 4",
+        "yearReleased": "2012",
+        "language": "English",
+        "director": "Henry joost,Ariel Schulman"
+    },
+    {
+        "id": 20,
         "name": "Kanchana",
         "yearReleased": "2016",
         "language": "Tamil",
@@ -138,32 +166,27 @@
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
-
-
     },
-     {
+    {
+        "id": 20,
+        "name": "Wrong Turn",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "Mike P. Nelson"
+    },
+    {
         "id": 21,
         "name": "Videodrome",
         "yearReleased": "1983",
         "language": "English",
         "director": " David Cronenberg"
     },
-    
-    {
-        "id": 21,
-        "name": "Dahaan",
-        "yearReleased": "2022",
-        "language": "Hindi",
-        "director": "Vikrant Pawar"
-
-
     {
         "id": 21,
         "name": " Horror Story",
         "yearReleased": "2013",
-        "language":"Hindi",
-        "director":"Ayush Raina"
-    
+        "language": "Hindi",
+        "director": "Ayush Raina"
     },
     {
         "id": 21,
@@ -188,10 +211,87 @@
     },
     {
         "id": 21,
+        "name": "Psycho",
+        "yearReleased": "1960",
+        "language": "English",
+        "director": " Alfred Hitchcock"
+    },
+    {
+        "id": 21,
         "name": "X",
         "yearReleased": "2022",
         "language": "English",
         "director": "Ti West"
+    },
+    {
+        "id": 22,
+        "name": "Annabelle",
+        "yearReleased": "2014",
+        "language": "English",
+        "director": " John R. Leonetti"
+    },
+    {
+        "id": 23,
+        "name": "nightmare of the elm street",
+        "yearReleased": "1984",
+        "language": "English",
+        "director": "Wes Craven"
+    },
+    {
+        "id": 24,
+        "name": "Bhool Bhulaiyaa 2",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Anees Bazmee"
+    },
+    {
+        "id": 25,
+        "name": "Bhoot",
+        "yearReleased": "2022",
+        "language": "Hindi",
+        "director": "Bhanu Pratap Singh"
+    },
+    {
+        "id": 26,
+        "name": "Alien: Covenant",
+        "yearReleased": " 2017",
+        "language": "English",
+        "director": "Ridley Scott"
+    },
+    {
+        "id": 27,
+        "name": "6-5=2",
+        "yearReleased": "2013",
+        "language": "Kannada",
+        "director": "K S Ashoka"
+    },
+    {
+        "id": 21,
+        "name": "Dybbuk",
+        "yearReleased": "2021",
+        "language": "Hindi",
+        "director": "Jay Krishnan"
+    },
+    {
+        "id": 28,
+        "name": "House Of Usher",
+        "yearReleased": "1960",
+        "language": "English",
+        "director": "Roger Corman"
+    },
+    {
+        "id": 21,
+        "name": "The Unholy",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "Evan Spiliotopoulos"
+    },
+    {
+        "id": 23,
+        "name": "The Midnigth club",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Mike Flannagan"
     },
     {
         "id": 21,
@@ -384,6 +484,13 @@
     },
     {
         "id": 21,
+        "name": "The Exorcist",
+        "yearReleased": "1973",
+        "language": "English",
+        "director": "William Friedkin"
+    },
+    {
+        "id": 22,
         "name": "Bhool Bhulaiyaa 2",
         "yearReleased": "2022",
         "language": "English",
@@ -453,6 +560,69 @@
         "director": "scott derrickson"
     },
     {
+        "id": 33,
+        "name": "Tumbad",
+        "yearReleased": "2018",
+        "language": "Hindi",
+        "director": "Rahi Barve"
+    },
+    {
+        "id": 99,
+        "name": "kalo",
+        "yearReleased": "1960",
+        "language": "hindi",
+        "director": "pata nahi"
+    },
+    {
+        "id": 27,
+        "name": "Bhootkaal",
+        "yearReleased": "2003",
+        "language": "Hindi",
+        "director": "Ram Gopal Varma"
+    },
+    {
+        "id": 52,
+        "name": "Alone",
+        "yearReleased": "2015",
+        "language": "Hindi",
+        "director": "Bhushan Patel"
+    },
+    {
+        "id": 53,
+        "name": "vyanki the Dian",
+        "yearReleased": "2022",
+        "language": "Russian",
+        "director": "Vishal chauhan"
+    },
+    {
+        "id": 27,
+        "name": "sinister",
+        "yearReleased": "2012",
+        "language": "english",
+        "director": "scott derrickson"
+    },
+    {
+        "id": 27,
+        "name": "1920",
+        "yearReleased": "2008",
+        "language": "Hindi",
+        "director": "Vikram Bhatt"
+    },
+    {
+        "id": 28,
+        "name": "Train to Busan",
+        "yearReleased": " 2016",
+        "language": "korean",
+        "director": "Yeon Sang-ho"
+    },
+    {
+        "id": 27,
+        "name": "sinister2",
+        "yearReleased": "2015",
+        "language": "english",
+        "director": "scott derrickson"
+    },
+    {
         "id": 21,
         "name": "The Nun",
         "yearReleased": "2018",
@@ -472,6 +642,27 @@
         "yearReleased": "1960",
         "language": "hindi",
         "director": "pata nahi"
+    },
+    {
+        "id": 52,
+        "name": "Alone",
+        "yearReleased": "2015",
+        "language": "Hindi",
+        "director": "Bhushan Patel"
+    },
+    {
+        "id": 53,
+        "name": "vyanki the Dian",
+        "yearReleased": "2022",
+        "language": "Russian",
+        "director": "Vishal chauhan"
+    },
+    {
+        "id": 54,
+        "name": "shaapit",
+        "yearReleased": "2010",
+        "language": "Hindi",
+        "director": "Vikram Bhatt"
     },
     {
         "id": 27,
@@ -500,6 +691,13 @@
         "yearReleased": "2017",
         "language": "English",
         "director": "Andrés Muschietti"
+    },
+    {
+        "id": 26,
+        "name": "Host",
+        "yearReleased": "2020",
+        "language": "English",
+        "director": "Andy dataser"
     },
     {
         "id": 25,
@@ -646,38 +844,64 @@
         "name": "The Woman in Black",
         "yearReleased": "2012",
         "language": "English",
-
         "director": "Corin Hardy"
-     },
-{
-  "id": 52,
-   "name": "Alone",
-    "yearReleased": "2015",
-    "language" : "Hindi",
-    "director": "Bhushan Patel"
-},
-{
-  "id": 53,
-   "name": "vyanki the Dian",
-    "yearReleased": "2022",
-    "language" : "Russian",
-    "director": "Vishal chauhan"
-},
-{
-  "id": 54,
-   "name": "The Woman in Black",
-    "yearReleased": "2012",
-    "language" : "English",
-    "director": "James Watkins"
-},
-
-{
-  "id": 55,
-   "name": "Innocent Curse",
-    "yearReleased": "2017",
-    "language" : "japanese",
-    "director": "Takashi Shimizu"
-},
+    },
+    {
+        "id": 21,
+        "name": "stree",
+        "yearReleased": "2021",
+        "language": "Hindi",
+        "director": "BANSALI"
+    },
+    {
+        "id": 21,
+        "name": "The Shining",
+        "yearReleased": "1980",
+        "language": "English",
+        "director": "Stanley Kubrick"
+    },
+    {
+        "id": 52,
+        "name": "Alone",
+        "yearReleased": "2015",
+        "language": "Hindi",
+        "director": "Bhushan Patel"
+    },
+    {
+        "id": 53,
+        "name": "vyanki the Dian",
+        "yearReleased": "2022",
+        "language": "Russian",
+        "director": "Vishal chauhan"
+    },
+    {
+        "id": 54,
+        "name": "The Woman in Black",
+        "yearReleased": "2012",
+        "language": "English",
+        "director": "James Watkins"
+    },
+    {
+        "id": 52,
+        "name": "Alone",
+        "yearReleased": "2015",
+        "language": "Hindi",
+        "director": "Bhushan Patel"
+    },
+    {
+        "id": 53,
+        "name": "vyanki the Dian",
+        "yearReleased": "2022",
+        "language": "Russian",
+        "director": "Vishal chauhan"
+    },
+    {
+        "id": 54,
+        "name": "The Woman in Black",
+        "yearReleased": "2012",
+        "language": "English",
+        "director": "James Watkins"
+    },
     {
         "id": 55,
         "name": "Innocent Curse",
@@ -686,19 +910,129 @@
         "director": "Takashi Shimizu"
     },
     {
-
-      "id": 56,
-      "name": "Lights Out ",
-      "yearReleased": "2016",
-      "language": "English",
-      "director": "David F. Sandberg"
-  },
-     {
-
-      "id": 57,
-      "name": "Alone",
-      "yearReleased": "2015",
-      "language": "English",
-      "director": "Bhushan Patel"
-  },
+        "id": 56,
+        "name": "Lights Out ",
+        "yearReleased": "2016",
+        "language": "English",
+        "director": "David F. Sandberg"
+    },
+    {
+        "id": 57,
+        "name": "Alone",
+        "yearReleased": "2015",
+        "language": "English",
+        "director": "Bhushan Patel"
+    },
+    {
+        "id": 55,
+        "name": "Innocent Curse",
+        "yearReleased": "2017",
+        "language": "japanese",
+        "director": "Takashi Shimizu"
+    },
+    {
+        "id": 56,
+        "name": "Old",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "M. Night Shyamalan"
+    },
+    {
+        "id": 55,
+        "name": "Innocent Curse",
+        "yearReleased": "2017",
+        "language": "japanese",
+        "director": "Takashi Shimizu"
+    },
+    {
+        "id": 56,
+        "name": "Lights Out ",
+        "yearReleased": "2016",
+        "language": "English",
+        "director": "David F. Sandberg"
+    },
+    {
+        "id": 20,
+        "name": "Chhorii",
+        "yearReleased": "2021",
+        "language": "hindi",
+        "director": "Vishal Furia"
+    },
+    {
+        "id": 22,
+        "name": "Veronica",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "Paco Plaza"
+    },
+    {
+        "id": 21,
+        "name": "6-5=2",
+        "yearReleased": "2014",
+        "language": "HINDI",
+        "director": "Bharat Jain"
+    },
+    {
+        "id": 22,
+        "name": "brahmastra",
+        "yearReleased": "2022",
+        "language": "HINDI",
+        "director": "Ayan Mukerji"
+    },
+    {
+        "id": 21,
+        "name": "IT'S ALIVE! ",
+        "yearReleased": "1974",
+        "language": "English",
+        "director": "Larry Cohen"
+    },
+    {
+        "id": 28,
+        "name": "The Grudge",
+        "yearReleased": "2004",
+        "language": "Japanese",
+        "director": "Takashi Shimizu"
+    },
+    {
+        "id": 21,
+        "name": "Haunted – 3D",
+        "yearReleased": "2011",
+        "language": "Hindi",
+        "director": "Vikram Bhatt"
+    },
+    {
+        "id": 22,
+        "name": "The Conjuring 2",
+        "yearReleased": "2016",
+        "language": "English",
+        "director": "James Wan"
+    },
+    {
+        "id": 23,
+        "name": "Resident Evil",
+        "yearReleased": "2002",
+        "language": "English",
+        "director": "Paul W.S. Anderson"
+    },
+    {
+        "id": 21,
+        "name": "The Exorcist",
+        "yearReleased": "1973",
+        "language": "English",
+        "director": "John boorman"
+    },
+    {
+        "id": 29,
+        "name": "The Conjuring",
+        "yearReleased": "2013",
+        "language": "English",
+        "director": "James Wan"
+    },
+    {
+        "id": 23,
+        "name": "IT",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "Andy Muschietti"
+    }
 ]
