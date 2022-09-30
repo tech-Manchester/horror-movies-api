@@ -359,7 +359,7 @@
         "yearReleased": "2008",
         "language": "Hindi",
         "director": "Vikram Bhatt"
-    }
+    },
 
 
  
@@ -382,6 +382,7 @@
         "yearReleased": "2019",
         "language": "English",
         "director": " Ari Aster"
+     },
      {
         "id": 23,
         "name": "The Midnigth club",
@@ -406,7 +407,7 @@
         "language": "English",
         "director": "Anees Bazmee"
 
-    }
+    },
      {
         "id": 21,
         "name": "6-5=2",
@@ -688,17 +689,8 @@
         "name": "The Exorcist",
         "yearReleased": "1973",
         "language": "English",
-        "director": "Mike P. Nelson"
-
-
-    },
-     {
-        "id": 21,
-        "name": "The NUN",
-        "yearReleased": "2018",
-        "language": "English",
-        "director": "Corin Hardy"
-     },
+        "director": "William Friedkin"
+    }
 {
   "id": 52,
    "name": "Alone",
