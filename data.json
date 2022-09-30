@@ -244,6 +244,14 @@
 
     }
     {
+        "id": 21,
+        "name": "Mahal",
+        "yearReleased": "1949",
+        "language": "Hindi",
+        "director": "Kamal Amrohi"
+
+
+    }
         "id": 30,
         "name": "US",
         "yearReleased": "2019",
@@ -275,5 +283,7 @@
         "yearReleased": "2019",
         "language": "Hindi",
         "director": "Amar Kaushik"
+ 
         }
+ 
 ]
