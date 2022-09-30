@@ -550,28 +550,9 @@
         "director": "Bhanu Pratap Singh"
 
 
-    },
-    {
-        "id": 22,
-        "name": "YOU'RE NEXT",
-        "yearReleased": "2013",
-        "language": "English",
-        "director": "Adam Wingard"
-
-
 
     },
      {
-        "id": 21,
-        "name": "Anabella",
-        "yearReleased": "2017",
-        "language": "English",
-        "director": "John R. Leonetti"
-        },
-   {
-        
-
-
         "id": 26,
         "name": "6-5=2",
         "yearReleased": "2013",
@@ -614,6 +595,14 @@
     "yearReleased": "1897",
     "language" : "Russian",
     "director": "Vishal chauhan"
+}
+
+{
+   "id": 54,
+   "name": "Bali",
+   "yearReleased": "2021",
+   "language" : "Marathi",
+   "director": "Vishal Furia"
 }
  
 ]
