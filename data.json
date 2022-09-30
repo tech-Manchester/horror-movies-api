@@ -120,6 +120,14 @@
         "yearReleased": "2013",
         "language": "English",
         "director": "James Wan"
+    },
+    
+    {
+        "id": 17,
+        "name": "hello mini",
+        "yearReleased": "2014",
+        "language": "hindi",
+        "director": "ekta kapoor"
     }
 
 
