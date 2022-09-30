@@ -143,7 +143,12 @@
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
-
-
+    },
+     {
+        "id": 21,
+        "name": "nightmare of the elm street",
+        "yearReleased": "1984",
+        "language": "English",
+        "director": "Wes Craven"
     }
 ]
