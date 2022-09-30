@@ -42,32 +42,29 @@
         "language": "English",
         "director": "Eric Vallete"
     },
-
-   {
+    {
         "id": 7,
-        "name": "Insidious",
-        "yearReleased": "2010",
+        "name": "The Midnigth club",
+        "yearReleased": "2022",
         "language": "English",
-        "director": "James Wan"
+        "director": "Mike Flannagan"
     },
     
     {
         "id": 8,
-        "name": "anabela",
+        "name": "Insidious",
         "yearReleased": "2010",
         "language": "English",
-        "director": "John"
+        "director": "James Wan"
 
     },
     
     {
-
         "id": 9,
-        "name": "The Unholy",
-        "yearReleased": "2021",
+        "name": "Veronica",
+        "yearReleased": "2017",
         "language": "English",
-        "director": "Evan Spiliotopoulos"
-
+        "director": "plazo"
     },
     
     {    
@@ -87,6 +84,7 @@
         "director": "paco plazo"
 
     }
+
 
 
 ]
