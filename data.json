@@ -1120,5 +1120,12 @@
         "yearReleased": "2017",
         "language": "English",
         "director": "Andy Muschietti"
+    },
+    {
+        "id": 24,
+        "name": "Get Out",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "Jordan Peele"
     }
 ]
