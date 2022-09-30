@@ -1127,5 +1127,12 @@
         "yearReleased": "2017",
         "language": "English",
         "director": "Jordan Peele"
+    },
+    {
+        "id": 25,
+        "name": "The Exorcism of Emily Rose",
+        "yearReleased": "2005 ",
+        "language": "English",
+        "director": "Scott Derrickson"
     }
 ]
