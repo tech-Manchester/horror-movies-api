@@ -316,7 +316,6 @@
 
 
     }
-
     {
         "id": 21,
         "name": "Mahal",
@@ -341,20 +340,8 @@
     }
 
 
+    },
      {
-        "id": 23,
-        "name": "The Midnigth club",
-        "yearReleased": "2022",
-        "language": "English",
-        "director": "Mike Flannagan"
-    },
-{
-        "id": 29,
-        "name": "Orphan",
-        "yearReleased": "2009",
-        "language": "English",
-        "director": "Jaume Collet-Serra"
-    },
         "id": 31,
         "name": "Incantation",
         "yearReleased": "2022",
@@ -387,5 +374,12 @@
         "director": "pata nahi"
 
     },
+{
+  "id": 52,
+   "name": "Alone",
+    "yearReleased": "2015",
+    "language" : "Hindi",
+    "director": "Bhushan Patel"
+}
  
 ]
