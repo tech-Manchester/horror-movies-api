@@ -514,6 +514,15 @@
           "language": "English",
           "director": "Andy dataser"
     }
+    
+       {
+          "id": 27,
+          "name": "Dead Silence",
+          "yearReleased": "2007",
+          "language": "English",
+          "director": "James Wan"
+    }
+    
 ]
   
   
