@@ -226,6 +226,76 @@
         "director": "Ti West"
     },
     {
+        "id": 22,
+        "name": "Annabelle",
+        "yearReleased": "2014",
+        "language": "English",
+        "director": " John R. Leonetti"
+    },
+    {
+        "id": 23,
+        "name": "nightmare of the elm street",
+        "yearReleased": "1984",
+        "language": "English",
+        "director": "Wes Craven"
+    },
+    {
+        "id": 24,
+        "name": "Bhool Bhulaiyaa 2",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Anees Bazmee"
+    },
+    {
+        "id": 25,
+        "name": "Bhoot",
+        "yearReleased": "2022",
+        "language": "Hindi",
+        "director": "Bhanu Pratap Singh"
+    },
+    {
+        "id": 26,
+        "name": "Alien: Covenant",
+        "yearReleased": " 2017",
+        "language": "English",
+        "director": "Ridley Scott"
+    },
+    {
+        "id": 27,
+        "name": "6-5=2",
+        "yearReleased": "2013",
+        "language": "Kannada",
+        "director": "K S Ashoka"
+    },
+    {
+        "id": 21,
+        "name": "Dybbuk",
+        "yearReleased": "2021",
+        "language": "Hindi",
+        "director": "Jay Krishnan"
+    },
+    {
+        "id": 28,
+        "name": "House Of Usher",
+        "yearReleased": "1960",
+        "language": "English",
+        "director": "Roger Corman"
+    },
+    {
+        "id": 21,
+        "name": "The Unholy",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "Evan Spiliotopoulos"
+    },
+    {
+        "id": 23,
+        "name": "The Midnigth club",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Mike Flannagan"
+    },
+    {
         "id": 21,
         "name": "Psycho",
         "yearReleased": "1960",
@@ -504,6 +574,27 @@
         "yearReleased": "1960",
         "language": "hindi",
         "director": "pata nahi"
+    },
+    {
+        "id": 52,
+        "name": "Alone",
+        "yearReleased": "2015",
+        "language": "Hindi",
+        "director": "Bhushan Patel"
+    },
+    {
+        "id": 53,
+        "name": "vyanki the Dian",
+        "yearReleased": "2022",
+        "language": "Russian",
+        "director": "Vishal chauhan"
+    },
+    {
+        "id": 54,
+        "name": "shaapit",
+        "yearReleased": "2010",
+        "language": "Hindi",
+        "director": "Vikram Bhatt"
     },
     {
         "id": 27,
