@@ -575,6 +575,13 @@
         "director": "ssr"
 
     },
+    {
+        "id":21,
+        "name":"Host",
+        "yearRealeased":"2020",
+        "language":"English",
+        "director":"Rob Savage"
+    },
        {
         "id": 22,
         "name": "The Exorcist",
