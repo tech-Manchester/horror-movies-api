@@ -244,7 +244,6 @@
         "language": "English",
         "director": " John R. Leonetti"
     },
-
     {
         "id": 34,
         "name": "nightmare of the elm street",
@@ -336,7 +335,6 @@
         "language": "English",
         "director": "Wes Craven"
     },
-
     {
         "id": 24,
         "name": "Bhool Bhulaiyaa 2",
@@ -484,6 +482,7 @@
         "language": "English",
         "director": " Ari Aster"
     },
+    {},
     {
         "id": 23,
         "name": "The Midnigth club",
@@ -512,9 +511,9 @@
         "language": "English",
         "director": "Anees Bazmee"
     },
+    {},
     {
         "id": 24,
-        "id": 21,
         "name": "6-5=2",
         "yearReleased": "2013",
         "language": "Kannada",
@@ -848,6 +847,34 @@
         "yearReleased": "1973",
         "language": "English",
         "director": "William Friedkin"
+    },
+    {
+        "id": 52,
+        "name": "Alone",
+        "yearReleased": "2015",
+        "language": "Hindi",
+        "director": "Bhushan Patel"
+    },
+    {
+        "id": 53,
+        "name": "vyanki the Dian",
+        "yearReleased": "2022",
+        "language": "Russian",
+        "director": "Vishal chauhan"
+    },
+    {
+        "id": 54,
+        "name": "The Woman in Black",
+        "yearReleased": "2012",
+        "language": "English",
+        "director": "James Watkins"
+    },
+    {
+        "id": 55,
+        "name": "Innocent Curse",
+        "yearReleased": "2017",
+        "language": "japanese",
+        "director": "Takashi Shimizu"
     },
     {
         "id": 52,
