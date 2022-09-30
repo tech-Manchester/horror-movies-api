@@ -175,6 +175,21 @@
       "language": "English",
       "director": "Ti West"
 
+    },
+ 
+     {
+    "id": 21,
+    "name": "Psycho",
+    "yearReleased": "1960",
+    "language": "English",
+    "director": " Alfred Hitchcock"
+    },
+    {
+        "id": 21,
+        "name": "X",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Ti West"
 
   },
   {
@@ -265,7 +280,8 @@
 
     },
 
-    {
+
+{
         "id": 26,
         "name": "Alien: Covenant",
         "yearReleased": " 2017",
@@ -340,6 +356,30 @@
     }
 
 
+ 
+    },
+    {
+        "id": 28,
+        "name": "Midsommar",
+        "yearReleased": "2019",
+        "language": "English",
+        "director": " Ari Aster"
+     {
+        "id": 23,
+        "name": "The Midnigth club",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Mike Flannagan"
+    },
+   {
+        "id": 29,
+
+
+        "id": 29,
+        "name": "Orphan",
+        "yearReleased": "2009",
+        "language": "English",
+        "director": "Jaume Collet-Serra"
     },
      {
         "id": 31,
@@ -347,8 +387,7 @@
         "yearReleased": "2022",
         "language": "English",
         "director": "Kevin Ko"
-
-
+    },
     }
      {
         "id": 32,
@@ -357,6 +396,7 @@
         "language": "Hindi",
         "director": "Priyadarshan"
 
+    }
 
     },{
     "id": 32,
@@ -364,6 +404,7 @@
         "yearReleased": "2019",
         "language": "Hindi",
         "director": "Amar Kaushik"
+
  
         },
  {
