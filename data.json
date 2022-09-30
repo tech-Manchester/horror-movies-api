@@ -142,6 +142,13 @@
         "language": "English",
         "director": "Mike P. Nelson"
 
+    },
+    {
+        "id": 21,
+        "name": "The Exorcist",
+        "yearReleased": "2018",
+        "language": "English",
+        "director": "Andy Newber"
 
 
     },
@@ -151,12 +158,7 @@
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
-
-
-    }
     
-
-
     },
      {
     "id": 21,
@@ -164,7 +166,6 @@
     "yearReleased": "1960",
     "language": "English",
     "director": " Alfred Hitchcock"
-}
 
 
     },
@@ -207,9 +208,7 @@
         "language": "Hindi",
         "director": "Bhanu Pratap Singh"
 
-
-
-    }
+    },
 
     {
         "id": 26,
@@ -219,7 +218,7 @@
         "director": "Ridley Scott"
 
 
-    }
+    },
 
      {
         "id": 27,
