@@ -244,6 +244,23 @@
 
     },
     {
+        "id": 21,
+        "name": "stree",
+        "yearReleased": "2020",
+        "language": "Hindi",
+        "director": "dev deol"
+
+
+    }
+    {
+        "id": 21,
+        "name": "Mahal",
+        "yearReleased": "1949",
+        "language": "Hindi",
+        "director": "Kamal Amrohi"
+
+
+    }
         "id": 30,
         "name": "US",
         "yearReleased": "2019",
@@ -257,4 +274,33 @@
         "language": "Hindi",
         "director": "Vikram Bhatt"
     }
+
+
+    },
+     {
+        "id": 31,
+        "name": "Incantation",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Kevin Ko"
+
+
+    }
+     {
+        "id": 32,
+        "name": "Bhool Bhulaiyaa  ",
+        "yearReleased": "2007",
+        "language": "Hindi",
+        "director": "Priyadarshan"
+
+
+    },{
+    "id": 32,
+        "name": "stree",
+        "yearReleased": "2019",
+        "language": "Hindi",
+        "director": "Amar Kaushik"
+ 
+        }
+ 
 ]
