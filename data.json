@@ -145,5 +145,12 @@
         "director": "Mike P. Nelson"
 
 
-    }
+    },
+     {
+        "id": 21,
+        "name": "The NUN",
+        "yearReleased": "2018",
+        "language": "English",
+        "director": "Corin Hardy"
+     }
 ]
