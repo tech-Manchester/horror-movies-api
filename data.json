@@ -145,5 +145,23 @@
         "director": "Mike P. Nelson"
 
 
-    }
+    },
+     {
+        "id": 21,
+        "name": "6-5=2",
+        "yearReleased": "2014",
+        "language": "HINDI",
+        "director": "Bharat Jain"
+
+
+    },
+    {
+        "id": 22,
+        "name": "brahmastra",
+        "yearReleased": "2022",
+        "language": "HINDI",
+        "director": "Ayan Mukerji"
+
+
+    },
 ]
