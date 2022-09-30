@@ -36,7 +36,6 @@
     },
     {
         "id": 6,
-
         "name": "one missed call",
         "yearReleased": "2008",
         "language": "English",
@@ -49,16 +48,13 @@
         "language": "English",
         "director": "Mike Flannagan"
     },
-    
     {
         "id": 8,
         "name": "Insidious",
         "yearReleased": "2010",
         "language": "English",
         "director": "James Wan"
-
     },
-    
     {
         "id": 9,
         "name": "Veronica",
@@ -66,31 +62,26 @@
         "language": "English",
         "director": "plazo"
     },
-    
-    {    
-
-       "id": 10,
-       "name": "Lights Out ",
-       "yearReleased": "2016",
-       "language": "English",
-       "director": "David F. Sandberg"
-    },    
-      
+    {
+        "id": 10,
+        "name": "Lights Out ",
+        "yearReleased": "2016",
+        "language": "English",
+        "director": "David F. Sandberg"
+    },
     {
         "id": 11,
         "name": "Veronica",
         "yearReleased": "2017",
         "language": "English",
         "director": "paco plazo"
-
     },
-     {
+    {
         "id": 12,
         "name": " The Omen in Devil Town ",
         "yearReleased": "1993",
         "language": "English",
         "director": "Qumin Lee"
-
     },
     {
         "id": 13,
@@ -98,21 +89,20 @@
         "yearReleased": "2003",
         "language": "Hindi",
         "director": "Ram Gopal Varma"
-
-    },{
+    },
+    {
         "id": 14,
         "name": " 6 and 1 (In the Mind)",
         "yearReleased": "2019",
         "language": "English",
         "director": "Sudhanshu Saria"
-
-    },{
+    },
+    {
         "id": 15,
         "name": "Faz-me Companhia",
         "yearReleased": "2019",
         "language": "English",
         "director": "João Pedro Rodrigues"
-
     },
     {
         "id": 16,
@@ -126,9 +116,7 @@
         "name": "Kanchana",
         "yearReleased": "2016",
         "language": "Tamil",
-        "director": "Indian Insan"
+        "director": "Indian Insan"      
+
     }
-
-
-
 ]
