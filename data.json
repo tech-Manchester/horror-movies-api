@@ -332,7 +332,6 @@
 
 
     }
-
     {
         "id": 21,
         "name": "Mahal",
@@ -382,6 +381,7 @@
         "language": "English",
         "director": "Jaume Collet-Serra"
     },
+     {
         "id": 31,
         "name": "Incantation",
         "yearReleased": "2022",
@@ -415,5 +415,12 @@
         "director": "pata nahi"
 
     },
+{
+  "id": 52,
+   "name": "Alone",
+    "yearReleased": "2015",
+    "language" : "Hindi",
+    "director": "Bhushan Patel"
+}
  
 ]
