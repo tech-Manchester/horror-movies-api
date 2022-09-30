@@ -324,6 +324,12 @@
 
     },
      {
+    "id": 21,
+    "name": "Psycho",
+    "yearReleased": "1960",
+    "language": "English",
+    "director": " Alfred Hitchcock"
+}
         "id": 24,
         "name": "Dead Silence",
         "yearReleased": "2007",
@@ -455,7 +461,15 @@
         "director": "scott derrickson"
     },
 
-    }
+       {
+        "id": 27,
+        "name": "1920",
+        "yearReleased": "2008",
+        "language": "Hindi",
+        "director": "Vikram Bhatt"
+
+    },
+    
 {
         "id": 28,
         "name": "Train to Busan",
