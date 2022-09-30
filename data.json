@@ -1128,4 +1128,12 @@
         "language": "English",
         "director": "Jordan Peele"
     }
+    ,
+    {
+        "id": 231,
+        "name": "Halloween Kills",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "David Gordon Green"
+    }
 ]
