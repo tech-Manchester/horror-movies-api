@@ -144,6 +144,12 @@
         "language": "English",
         "director": "Mike P. Nelson"
 
-
     }
+     {
+        "id": 21,
+        "name": "6-5=2",
+        "yearReleased": "2013",
+        "language": "Kannada",
+        "director": "K S Ashoka"
+    },
 ]
