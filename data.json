@@ -561,26 +561,12 @@
 
     },
     {
-        "id": 21,
-        "name": " Chhorii",
-        "yearReleased": "2017",
-        "language": "English",
-        "director": "Vishal Furia"
-     }
-     {
         "id": 27,
         "name": "kanchan",
         "yearReleased": "2013",
         "language": "Hindi",
         "director": "ssr"
 
-    },
-    {
-        "id":21,
-        "name":"Host",
-        "yearRealeased":"2020",
-        "language":"English",
-        "director":"Rob Savage"
     },
        {
         "id": 22,
@@ -600,6 +586,13 @@
   "id": 53,
    "name": "vyanki the Dian",
     "yearReleased": "2022",
+    "language" : "Russian",
+    "director": "Vishal chauhan"
+},
+{
+  "id": 54,
+   "name": "The House of the Devil",
+    "yearReleased": "1897",
     "language" : "Russian",
     "director": "Vishal chauhan"
 }
