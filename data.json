@@ -261,7 +261,7 @@
 
     },
      {
-        "id": 22,
+        "id": 31,
         "name": "Incantation",
         "yearReleased": "2022",
         "language": "English",
@@ -269,11 +269,21 @@
 
 
     }
+     {
+        "id": 32,
+        "name": "Bhool Bhulaiyaa  ",
+        "yearReleased": "2007",
+        "language": "Hindi",
+        "director": "Priyadarshan"
 
-    "id": 24,
+
+    },{
+    "id": 32,
         "name": "stree",
         "yearReleased": "2019",
         "language": "Hindi",
         "director": "Amar Kaushik"
+ 
+        }
  
 ]
