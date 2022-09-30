@@ -350,16 +350,6 @@
 
 
     }
-    {    
-        "id": 21,
-        "name": "The Exorcist",
-        "yearReleased": "1973",
-        "language": "English",
-        "director": "William Friedkin"
-
-
-    }
-
      {
         "id": 32,
         "name": "Bhool Bhulaiyaa  ",
@@ -368,15 +358,21 @@
         "director": "Priyadarshan"
 
 
-    },
-    {
+    },{
     "id": 32,
         "name": "stree",
         "yearReleased": "2019",
         "language": "Hindi",
         "director": "Amar Kaushik"
  
-        }
- 
+        },
+ {
+        "id": 99,
+        "name": "kalo",
+        "yearReleased": "1960",
+        "language": "hindi",
+        "director": "pata nahi"
+
+    },
  
 ]
