@@ -36,11 +36,48 @@
     },
     {
         "id": 6,
+
         "name": "one missed call",
         "yearReleased": "2008",
         "language": "English",
         "director": "Eric Vallete"
-    }
+    },
+
+   {
+        "id": 7,
+        "name": "Insidious",
+        "yearReleased": "2010",
+        "language": "English",
+        "director": "James Wan"
+    },
+    
+    {
+        "id": 8,
+        "name": "anabela",
+        "yearReleased": "2010",
+        "language": "English",
+        "director": "John"
+
+    },
+    
+    {
+
+        "id": 9,
+        "name": "The Unholy",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "Evan Spiliotopoulos"
+
+    },
+    
+    {    
+
+       "id": 10,
+       "name": "Lights Out ",
+       "yearReleased": "2016",
+       "language": "English",
+       "director": "David F. Sandberg"
+    }   
 
 
 ]
