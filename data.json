@@ -243,28 +243,20 @@
         "director": "Roger Corman"
 
     }
-    {
-        "id": 30,
-        "name": "US",
-        "yearReleased": "2019",
-        "language": "English",
-        "director": "Jordan Peele"
 
-
-    },
      {
-        "id": 22,
+        "id": 23,
+        "name": "The Midnigth club",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Mike Flannagan"
+    },
+   {
+        "id": 29,
         "name": "Incantation",
         "yearReleased": "2022",
         "language": "English",
         "director": "Kevin Ko"
+    },
 
-
-    }
-
-    "id": 24,
-        "name": "stree",
-        "yearReleased": "2019",
-        "language": "Hindi",
-        "director": "Amar Kaushik"
 ]
