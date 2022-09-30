@@ -1,5 +1,5 @@
 # horror-movie-api
-This is a repository to make a data set of the best horror movies to watch.
+This is a repository to make a data set of the best horror movies to watch
 
 
 (if you dont know any of the following spec you can google it or use ctrl + shift + esc > performance
