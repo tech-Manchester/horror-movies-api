@@ -104,6 +104,7 @@
         "language": "English",
         "director": "João Pedro Rodrigues"
     },
+    
     {
         "id": 16,
         "name": "The Conjuring",
@@ -113,6 +114,34 @@
     },
     {
         "id": 17,
+        "name": "Paranormal Activity",
+        "yearReleased": "2007",
+        "language": "English",
+        "director": "Oren Peli"
+    },
+    {
+        "id": 18,
+        "name": "Paranormal Activity 2",
+        "yearReleased": "2010",
+        "language": "English",
+        "director": "Tod Williams"
+    },
+    {
+        "id": 19,
+        "name": "Paranormal Activity 3",
+        "yearReleased": "2011",
+        "language": "English",
+        "director": "Henry joost,Ariel Schulman"
+    },
+    {
+        "id": 20,
+        "name": "Paranormal Activity 4",
+        "yearReleased": "2012",
+        "language": "English",
+        "director": "Henry joost,Ariel Schulman"
+        },
+        {
+        "id": 20,
         "name": "Kanchana",
         "yearReleased": "2016",
         "language": "Tamil",
@@ -174,7 +203,15 @@
         "language": "English",
         "director": "Mike P. Nelson"
     },
-    {
+     {
+    "id": 21,
+    "name": "Psycho",
+    "yearReleased": "1960",
+    "language": "English",
+    "director": " Alfred Hitchcock"
+
+},
+{
         "id": 21,
         "name": "Psycho",
         "yearReleased": "1960",
