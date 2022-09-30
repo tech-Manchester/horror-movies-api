@@ -145,5 +145,12 @@
         "director": "Mike P. Nelson"
 
 
+    },
+    {
+        "id": 21,
+        "name": "The Exorcist",
+        "yearReleased": "2018",
+        "language": "English",
+        "director": "Andy Newber"
     }
 ]
