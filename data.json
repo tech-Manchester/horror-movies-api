@@ -145,5 +145,15 @@
         "director": "Mike P. Nelson"
 
 
+    },
+     {
+        "id": 22,
+        "name": "The Weird Man",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "Mike P. Nelson"
+
+
     }
+    
 ]
