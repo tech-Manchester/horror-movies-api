@@ -146,13 +146,11 @@
 
 
     },
-     {
-        "id": 21,
-        "name": "Bhool Bhulaiyaa 2",
-        "yearReleased": "2022",
-        "language": "English",
-        "director": "Anees Bazmee"
-
-
+    {
+        "id":21,
+        "name":"The Nun",
+        "yearReleased":"2018",
+        "language":"English",
+        "director":"Corin Hardy"
     }
 ]
