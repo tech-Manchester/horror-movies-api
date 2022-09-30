@@ -141,6 +141,13 @@
 
 
     },
+     {
+        "id": 21,
+        "name": "Videodrome",
+        "yearReleased": "1983",
+        "language": "English",
+        "director": " David Cronenberg"
+    },
     
     {
         "id": 21,
