@@ -147,14 +147,14 @@
         "director": "Indian Insan"
     },
     {
-        "id": 18,
+        "id": 22,
         "name": "X",
         "yearReleased": "2022",
         "language": "English",
         "director": "Ti West"
     },
     {
-        "id": 19,
+        "id": 23,
         "name": " Barbarian",
         "yearReleased": "2022",
         "language": "English",
@@ -166,8 +166,6 @@
         "yearReleased": "1973",
         "language": "English",
         "director": "William Friedkin"
-
-
     },
     {
         "id": 20,
@@ -177,42 +175,49 @@
         "director": "Mike P. Nelson"
     },
     {
-        "id": 20,
+        "id": 25,
         "name": "Wrong Turn",
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
     },
     {
-        "id": 21,
+        "id": 26,
         "name": "Videodrome",
         "yearReleased": "1983",
         "language": "English",
         "director": " David Cronenberg"
     },
     {
-        "id": 21,
+        "id": 27,
         "name": " Horror Story",
         "yearReleased": "2013",
         "language": "Hindi",
         "director": "Ayush Raina"
     },
     {
-        "id": 21,
+        "id": 28,
         "name": "The Exorcist",
         "yearReleased": "2018",
         "language": "English",
         "director": "Andy Newber"
     },
     {
-        "id": 22,
+        "id": 29,
         "name": "The Weird Man",
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
     },
     {
-        "id": 21,
+        "id": 30,
+        "name": "Psycho",
+        "yearReleased": "1960",
+        "language": "English",
+        "director": " Alfred Hitchcock"
+    },
+    {
+        "id": 31,
         "name": "Psycho",
         "yearReleased": "1960",
         "language": "English",
@@ -226,42 +231,43 @@
         "director": " Alfred Hitchcock"
     },
     {
-        "id": 21,
+        "id": 32,
         "name": "X",
         "yearReleased": "2022",
         "language": "English",
         "director": "Ti West"
     },
     {
-        "id": 22,
+        "id": 33,
         "name": "Annabelle",
         "yearReleased": "2014",
         "language": "English",
         "director": " John R. Leonetti"
     },
+
     {
-        "id": 23,
+        "id": 34,
         "name": "nightmare of the elm street",
         "yearReleased": "1984",
         "language": "English",
         "director": "Wes Craven"
     },
     {
-        "id": 24,
+        "id": 35,
         "name": "Bhool Bhulaiyaa 2",
         "yearReleased": "2022",
         "language": "English",
         "director": "Anees Bazmee"
     },
     {
-        "id": 25,
+        "id": 36,
         "name": "Bhoot",
         "yearReleased": "2022",
         "language": "Hindi",
         "director": "Bhanu Pratap Singh"
     },
     {
-        "id": 26,
+        "id": 37,
         "name": "Alien: Covenant",
         "yearReleased": " 2017",
         "language": "English",
@@ -330,6 +336,7 @@
         "language": "English",
         "director": "Wes Craven"
     },
+
     {
         "id": 24,
         "name": "Bhool Bhulaiyaa 2",
@@ -506,6 +513,7 @@
         "director": "Anees Bazmee"
     },
     {
+        "id": 24,
         "id": 21,
         "name": "6-5=2",
         "yearReleased": "2013",
@@ -693,6 +701,13 @@
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
+    },
+    {
+        "id": 55,
+        "name": "Malignant",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "James Wan"
     },
     {
         "id": 24,
@@ -968,7 +983,7 @@
         "director": "Vishal Furia"
     },
     {
-        "id": 22,
+        "id": 21,
         "name": "Veronica",
         "yearReleased": "2017",
         "language": "English",
@@ -1008,6 +1023,41 @@
         "yearReleased": "2011",
         "language": "Hindi",
         "director": "Vikram Bhatt"
+    },
+    {
+        "id": 52,
+        "name": "Alone",
+        "yearReleased": "2015",
+        "language": "Hindi",
+        "director": "Bhushan Patel"
+    },
+    {
+        "id": 53,
+        "name": "vyanki the Dian",
+        "yearReleased": "2022",
+        "language": "Russian",
+        "director": "Vishal chauhan"
+    },
+    {
+        "id": 54,
+        "name": "The Woman in Black",
+        "yearReleased": "2012",
+        "language": "English",
+        "director": "James Watkins"
+    },
+    {
+        "id": 55,
+        "name": "Innocent Curse",
+        "yearReleased": "2017",
+        "language": "japanese",
+        "director": "Takashi Shimizu"
+    },
+    {
+        "id": 79,
+        "name": "The Ring",
+        "yearReleased": "2003",
+        "language": "English",
+        "director": "Gore Verbinski"
     },
     {
         "id": 22,
