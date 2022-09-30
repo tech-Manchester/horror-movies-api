@@ -493,6 +493,13 @@
     },
     {
         "id": 21,
+
+        "name": "The Exorcist",
+        "yearReleased": "1973",
+        "language": "English",
+        "director": "William Friedkin"
+        },
+        {"id":22,
         "name": "Bhool Bhulaiyaa 2",
         "yearReleased": "2022",
         "language": "English",
