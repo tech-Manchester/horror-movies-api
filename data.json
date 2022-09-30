@@ -201,11 +201,21 @@
         "language": "Hindi",
         "director": "Bhanu Pratap Singh"
 
+    },
+
+
+    {
+        "id": 26,
+        "name": "Alien: Covenant",
+        "yearReleased": " 2017",
+        "language": "English",
+        "director": "Ridley Scott"
 
 
     },
+
      {
-        "id": 26,
+        "id": 27,
         "name": "6-5=2",
         "yearReleased": "2013",
         "language": "Kannada",
@@ -213,12 +223,13 @@
 
     },
     {
-        "id": 27,
+        "id": 28,
         "name": "Midsommar",
         "yearReleased": "2019",
         "language": "English",
         "director": " Ari Aster"
 
     }
+
 
 ]
