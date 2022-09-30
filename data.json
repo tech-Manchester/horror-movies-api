@@ -437,6 +437,23 @@
         "language": "Hindi",
         "director": "Amar Kaushik"
 
+    {
+    "id": 27,
+        "name": "sinister",
+        "yearReleased": "2012",
+        "language": "english",
+        "director": "scott derrickson"
+    },
+
+    {
+    "id": 27,
+        "name": "sinister2",
+        "yearReleased": "2015",
+        "language": "english",
+        "director": "scott derrickson"
+    },
+
+
  
         },
 {
