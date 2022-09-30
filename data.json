@@ -128,7 +128,6 @@
         "language": "English",
         "director": "Ti West"
     },
-    
     {
         "id": 19,
         "name": " Barbarian",
@@ -136,13 +135,13 @@
         "language": "English",
         "director": "TZach Cregger"
      },
-     
     {
         "id": 20,
         "name": "Wrong Turn",
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
+
 
 
     },
@@ -153,4 +152,58 @@
     "language": "English",
     "director": " Alfred Hitchcock"
 }
+
+
+    },
+    {
+        "id": 21,
+        "name": "X",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Ti West"
+
+
+    },
+    {
+        "id": 22,
+        "name": "Annabelle",
+        "yearReleased": "2014",
+        "language": "English",
+        "director": " John R. Leonetti"
+
+
+    },
+     {
+        "id": 23,
+        "name": "nightmare of the elm street",
+        "yearReleased": "1984",
+        "language": "English",
+        "director": "Wes Craven"
+    },
+     {
+        "id": 24,
+        "name": "Bhool Bhulaiyaa 2",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Anees Bazmee"
+    },
+   {
+        "id": 25,
+        "name": "Bhoot,
+        "yearReleased": "2022",
+        "language": "Hindi",
+        "director": "Bhanu Pratap Singh"
+
+
+
+    }
+     {
+        "id": 26,
+        "name": "6-5=2",
+        "yearReleased": "2013",
+        "language": "Kannada",
+        "director": "K S Ashoka"
+
+    },
+
 ]
