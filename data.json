@@ -141,18 +141,6 @@
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
-
-
-
-    },
-    {
-        "id": 21,
-        "name": "Annabelle",
-        "yearReleased": "2014",
-        "language": "English",
-        "director": " John R. Leonetti"
-
-
     },
      {
         "id": 21,
@@ -167,5 +155,13 @@
         "yearReleased": "2022",
         "language": "English",
         "director": "Anees Bazmee"
+    },
+     {
+        "id": 22,
+        "name": "OPEN WATER",
+        "yearReleased": "2003",
+        "language": "English",
+        "director": "Chris Kentis"
     }
+    
 ]
