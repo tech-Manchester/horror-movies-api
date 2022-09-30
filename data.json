@@ -83,6 +83,36 @@
         "language": "English",
         "director": "paco plazo"
 
+    },
+     {
+        "id": 12,
+        "name": " The Omen in Devil Town ",
+        "yearReleased": "1993",
+        "language": "English",
+        "director": "Qumin Lee"
+
+    },
+    {
+        "id": 13,
+        "name": "Bhootkaal",
+        "yearReleased": "2003",
+        "language": "Hindi",
+        "director": "Ram Gopal Varma"
+
+    },{
+        "id": 14,
+        "name": " 6 and 1 (In the Mind)",
+        "yearReleased": "2019",
+        "language": "English",
+        "director": "Sudhanshu Saria"
+
+    },{
+        "id": 15,
+        "name": "Faz-me Companhia",
+        "yearReleased": "2019",
+        "language": "English",
+        "director": "João Pedro Rodrigues"
+
     }
 
 
