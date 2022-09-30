@@ -418,7 +418,15 @@
         "name": "Incantation",
         "yearReleased": "2022",
         "language": "English",
-        "director": "Kevin Ko"
+        "director": "Ti West"
+    },
+    {
+        "id": 25,
+        "name": "Nope",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Jordan Peele"
+    
     },
     }
      {
@@ -428,14 +436,16 @@
         "language": "Hindi",
         "director": "Priyadarshan"
 
-    }
+    
 
-    },{
+    },
+    {
     "id": 32,
         "name": "stree",
         "yearReleased": "2019",
         "language": "Hindi",
         "director": "Amar Kaushik"
+        }
 
     {
     "id": 27,
