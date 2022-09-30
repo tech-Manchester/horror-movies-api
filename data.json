@@ -1,188 +1,172 @@
 [
-  {
-      "id": 1,
-      "name": "Host",
-      "yearReleased": "2020",
-      "language": "English",
-      "director": "Andy dataser"
-  },
-  {
-      "id": 2,
-      "name": "Host",
-      "yearReleased": "2018",
-      "language": "English",
-      "director": "Andy Newber"
-  },
-  {
-      "id": 3,
-      "name": "The Ring",
-      "yearReleased": "2004",
-      "language": "English",
-      "director": "Andy Newsir"
-  },
-  {
-      "id": 4,
-      "name": "Dahmer",
-      "yearReleased": "2002",
-      "language": "English",
-      "director": "David Jacobson"
-  },
-  {
-      "id": 5,
-      "name": "The Conjuring",
-      "yearReleased": "2013",
-      "language": "English",
-      "director": "James Wan"
-  },
-  {
-      "id": 6,
-      "name": "one missed call",
-      "yearReleased": "2008",
-      "language": "English",
-      "director": "Eric Vallete"
-  },
-  {
-      "id": 7,
-      "name": "The Midnigth club",
-      "yearReleased": "2022",
-      "language": "English",
-      "director": "Mike Flannagan"
-  },
-  {
-      "id": 8,
-      "name": "Insidious",
-      "yearReleased": "2010",
-      "language": "English",
-      "director": "James Wan"
-  },
-  {
-      "id": 9,
-      "name": "Veronica",
-      "yearReleased": "2017",
-      "language": "English",
-      "director": "plazo"
-  },
-  {
-      "id": 10,
-      "name": "Lights Out ",
-      "yearReleased": "2016",
-      "language": "English",
-      "director": "David F. Sandberg"
-  },
-  {
-      "id": 11,
-      "name": "Veronica",
-      "yearReleased": "2017",
-      "language": "English",
-      "director": "paco plazo"
-  },
-  {
-      "id": 12,
-      "name": " The Omen in Devil Town ",
-      "yearReleased": "1993",
-      "language": "English",
-      "director": "Qumin Lee"
-  },
-  {
-      "id": 13,
-      "name": "Bhootkaal",
-      "yearReleased": "2003",
-      "language": "Hindi",
-      "director": "Ram Gopal Varma"
-  },
-  {
-      "id": 14,
-      "name": " 6 and 1 (In the Mind)",
-      "yearReleased": "2019",
-      "language": "English",
-      "director": "Sudhanshu Saria"
-  },
-  {
-      "id": 15,
-      "name": "Faz-me Companhia",
-      "yearReleased": "2019",
-      "language": "English",
-      "director": "João Pedro Rodrigues"
-  },
-  {
-      "id": 16,
-      "name": "The Conjuring",
-      "yearReleased": "2013",
-      "language": "English",
-      "director": "James Wan"
-  },
-  
-  {
-      "id": 17,
-      "name": "Kanchana",
-      "yearReleased": "2016",
-      "language": "Tamil",
-      "director": "Indian Insan"      
-
-  },   
-
-  {
-      "id": 18,
-      "name": "X",
-      "yearReleased": "2022",
-      "language": "English",
-      "director": "Ti West"
-  },
-  {
-      "id": 19,
-      "name": " Barbarian",
-      "yearReleased": "2022",
-      "language": "English",
-      "director": "TZach Cregger"
-   },
-  {
-      "id": 20,
-      "name": "Wrong Turn",
-      "yearReleased": "2021",
-      "language": "English",
-      "director": "Mike P. Nelson"
-
-  },
-  {
-      "id": 21,
-      "name": "The Exorcist",
-      "yearReleased": "2018",
-      "language": "English",
-      "director": "Andy Newber"
-
-
-  },
-   {
-      "id": 22,
-      "name": "The Weird Man",
-      "yearReleased": "2021",
-      "language": "English",
-      "director": "Mike P. Nelson"
-  
-  },
-   {
-  "id": 21,
-  "name": "Psycho",
-  "yearReleased": "1960",
-  "language": "English",
-  "director": " Alfred Hitchcock"
-
-  },
-  {
-      "id": 21,
-      "name": "X",
-      "yearReleased": "2022",
-      "language": "English",
-      "director": "Ti West"
-
+    {
+        "id": 1,
+        "name": "Host",
+        "yearReleased": "2020",
+        "language": "English",
+        "director": "Andy dataser"
     },
- 
+    {
+        "id": 2,
+        "name": "Host",
+        "yearReleased": "2018",
+        "language": "English",
+        "director": "Andy Newber"
+    },
+    {
+        "id": 3,
+        "name": "The Ring",
+        "yearReleased": "2004",
+        "language": "English",
+        "director": "Andy Newsir"
+    },
+    {
+        "id": 4,
+        "name": "Dahmer",
+        "yearReleased": "2002",
+        "language": "English",
+        "director": "David Jacobson"
+    },
+    {
+        "id": 5,
+        "name": "The Conjuring",
+        "yearReleased": "2013",
+        "language": "English",
+        "director": "James Wan"
+    },
+    {
+        "id": 6,
+        "name": "one missed call",
+        "yearReleased": "2008",
+        "language": "English",
+        "director": "Eric Vallete"
+    },
+    {
+        "id": 7,
+        "name": "The Midnigth club",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Mike Flannagan"
+    },
+    {
+        "id": 8,
+        "name": "Insidious",
+        "yearReleased": "2010",
+        "language": "English",
+        "director": "James Wan"
+    },
+    {
+        "id": 9,
+        "name": "Veronica",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "plazo"
+    },
+    {
+        "id": 10,
+        "name": "Lights Out ",
+        "yearReleased": "2016",
+        "language": "English",
+        "director": "David F. Sandberg"
+    },
+    {
+        "id": 11,
+        "name": "Veronica",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "paco plazo"
+    },
+    {
+        "id": 12,
+        "name": " The Omen in Devil Town ",
+        "yearReleased": "1993",
+        "language": "English",
+        "director": "Qumin Lee"
+    },
+    {
+        "id": 13,
+        "name": "Bhootkaal",
+        "yearReleased": "2003",
+        "language": "Hindi",
+        "director": "Ram Gopal Varma"
+    },
+    {
+        "id": 14,
+        "name": " 6 and 1 (In the Mind)",
+        "yearReleased": "2019",
+        "language": "English",
+        "director": "Sudhanshu Saria"
+    },
+    {
+        "id": 15,
+        "name": "Faz-me Companhia",
+        "yearReleased": "2019",
+        "language": "English",
+        "director": "João Pedro Rodrigues"
+    },
+    {
+        "id": 16,
+        "name": "The Conjuring",
+        "yearReleased": "2013",
+        "language": "English",
+        "director": "James Wan"
+    },
+    
+    {
+        "id": 17,
+        "name": "Kanchana",
+        "yearReleased": "2016",
+        "language": "Tamil",
+        "director": "Indian Insan"      
+  
+    },   
+  
+    {
+        "id": 18,
+        "name": "X",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Ti West"
+    },
+    {
+        "id": 19,
+        "name": " Barbarian",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "TZach Cregger"
+     },
+    {
+        "id": 20,
+        "name": "Wrong Turn",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "Mike P. Nelson"
+  
+    },
+    {
+        "id": 21,
+        "name": "The Exorcist",
+        "yearReleased": "2018",
+        "language": "English",
+        "director": "Andy Newber"
+  
+  
+    },
+     {
+        "id": 22,
+        "name": "The Weird Man",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "Mike P. Nelson"
+    
+    },
      {
     "id": 21,
     "name": "Psycho",
     "yearReleased": "1960",
     "language": "English",
     "director": " Alfred Hitchcock"
+  
     },
     {
         "id": 21,
@@ -190,107 +174,64 @@
         "yearReleased": "2022",
         "language": "English",
         "director": "Ti West"
-
-  },
-  {
-      "id": 22,
-      "name": "Annabelle",
-      "yearReleased": "2014",
-      "language": "English",
-      "director": " John R. Leonetti"
-
-
-  },
-   {
-      "id": 23,
-      "name": "nightmare of the elm street",
-      "yearReleased": "1984",
-      "language": "English",
-      "director": "Wes Craven"
-  },
-   {
-      "id": 24,
-      "name": "Bhool Bhulaiyaa 2",
-      "yearReleased": "2022",
-      "language": "English",
-      "director": "Anees Bazmee"
-  },
-  {
-      "id": 25,
-      "name": "Bhoot",
-      "yearReleased": "2022",
-      "language": "Hindi",
-      "director": "Bhanu Pratap Singh"
-
-  },
-
-  {
-      "id": 26,
-      "name": "Alien: Covenant",
-      "yearReleased": " 2017",
-      "language": "English",
-      "director": "Ridley Scott"
-  },
-
-   {
-      "id": 27,
-      "name": "6-5=2",
-      "yearReleased": "2013",
-      "language": "Kannada",
-      "director": "K S Ashoka"
-  },
   
-   {
+      },
+   
+       {
       "id": 21,
-      "name": "Dybbuk",
-      "yearReleased": "2021",
-      "language": "Hindi",
-      "director": "Jay Krishnan"
-
-  },
-  {
-      "id": 28,
-      "name": "House Of Usher",
+      "name": "Psycho",
       "yearReleased": "1960",
       "language": "English",
-      "director": "Roger Corman"
-
-  },
-  {
-      "id": 21,
-      "name": "The Unholy",
-      "yearReleased": "2021",
-      "language": "English",
-      "director": "Evan Spiliotopoulos"
-  },
-
-   {
-      "id": 23,
-      "name": "The Midnigth club",
-      "yearReleased": "2022",
-      "language": "English",
-      "director": "Mike Flannagan"
-  }
-
+      "director": " Alfred Hitchcock"
+      },
+      {
+          "id": 21,
+          "name": "X",
+          "yearReleased": "2022",
+          "language": "English",
+          "director": "Ti West"
+  
+    },
+    {
+        "id": 22,
+        "name": "Annabelle",
+        "yearReleased": "2014",
+        "language": "English",
+        "director": " John R. Leonetti"
+  
+  
+    },
+     {
+        "id": 23,
+        "name": "nightmare of the elm street",
+        "yearReleased": "1984",
+        "language": "English",
+        "director": "Wes Craven"
+    },
+     {
+        "id": 24,
+        "name": "Bhool Bhulaiyaa 2",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Anees Bazmee"
+    },
+    {
         "id": 25,
-        "name": "Bhoot,
+        "name": "Bhoot",
         "yearReleased": "2022",
         "language": "Hindi",
         "director": "Bhanu Pratap Singh"
-
+  
     },
-
-
-{
+  
+    {
         "id": 26,
         "name": "Alien: Covenant",
         "yearReleased": " 2017",
         "language": "English",
         "director": "Ridley Scott"
-
-
     },
-
+  
      {
         "id": 27,
         "name": "6-5=2",
@@ -305,83 +246,24 @@
         "yearReleased": "2021",
         "language": "Hindi",
         "director": "Jay Krishnan"
-     },
+  
+    },
     {
         "id": 28,
         "name": "House Of Usher",
         "yearReleased": "1960",
         "language": "English",
         "director": "Roger Corman"
-
+  
     },
     {
         "id": 21,
-        "name": "stree",
-        "yearReleased": "2020",
-        "language": "Hindi",
-        "director": "dev deol"
-
-
-    },
-     {
-    "id": 21,
-    "name": "Psycho",
-    "yearReleased": "1960",
-    "language": "English",
-    "director": " Alfred Hitchcock"
-}
-        "id": 24,
-        "name": "Dead Silence",
-        "yearReleased": "2007",
+        "name": "The Unholy",
+        "yearReleased": "2021",
         "language": "English",
-        "director": "James Wan"
-
-
-    }
-    {
-        "id": 21,
-        "name": "Mahal",
-        "yearReleased": "1949",
-        "language": "Hindi",
-        "director": "Kamal Amrohi"
-
-
-    }
-        "id": 30,
-        "name": "US",
-        "yearReleased": "2019",
-        "language": "English",
-        "director": "Jordan Peele"
+        "director": "Evan Spiliotopoulos"
     },
-     {
-        "id": 50,
-        "name": "1920",
-        "yearReleased": "2008",
-        "language": "Hindi",
-        "director": "Vikram Bhatt"
-    }
-
-
- 
-    },
-    {
-        "id": 21,
-        "name": "Annabelle",
-        "yearReleased": "2014",
-        "language": "English",
-        "director": " John R. Leonetti"
-
-
-    },
-     {
-        "id": 21,
-        "name": "nightmare of the elm street",
-        "yearReleased": "1984",
-        "id": 28,
-        "name": "Midsommar",
-        "yearReleased": "2019",
-        "language": "English",
-        "director": " Ari Aster"
+  
      {
         "id": 23,
         "name": "The Midnigth club",
@@ -389,220 +271,250 @@
         "language": "English",
         "director": "Mike Flannagan"
     },
-   {
-        "id": 29,
-
-
-        "id": 29,
-        "name": "Orphan",
-        "yearReleased": "2009",
+    {
+          "id": 25,
+          "name": "Bhoot",
+          "yearReleased": "2022",
+          "language": "Hindi",
+          "director": "Bhanu Pratap Singh"
+  
+    },
+  
+  
+    {
+      "id": 26,
+      "name": "Alien: Covenant",
+      "yearReleased": " 2017",
+      "language": "English",
+      "director": "Ridley Scott"
+    },
+  
+    {
+       "id": 27,
+       "name": "6-5=2",
+       "yearReleased": "2013",
+       "language": "Kannada",
+       "director": "K S Ashoka"
+    },
+      
+    {
+       "id": 21,
+       "name": "Dybbuk",
+       "yearReleased": "2021",
+       "language": "Hindi",
+       "director": "Jay Krishnan"
+    },
+    {
+        "id": 28,
+        "name": "House Of Usher",
+        "yearReleased": "1960",
         "language": "English",
-        "director": "Jaume Collet-Serra"
+        "director": "Roger Corman"
     },
      {
         "id": 21,
-        "name": "Bhool Bhulaiyaa 2",
-        "yearReleased": "2022",
-        "language": "English",
-        "director": "Anees Bazmee"
-
-    }
-     {
-        "id": 21,
-        "name": "6-5=2",
-        "yearReleased": "2013",
-        "language": "Kannada",
-        "director": "K S Ashoka"
-    },
-    {
-        "id": 22,
-        "name": "Arundhati",
-        "yearReleased": "2009",
-        "language": "Telugu",
-        "director": "Kodi Ramakrishna"
-        "id": 31,
-        "name": "Incantation",
-        "yearReleased": "2022",
-        "language": "English",
-        "director": "Ti West"
-    },
-    {
-        "id": 25,
-        "name": "Nope",
-        "yearReleased": "2022",
-        "language": "English",
-        "director": "Jordan Peele"
-    
-    },
-    }
-     {
-        "id": 32,
-        "name": "Bhool Bhulaiyaa  ",
-        "yearReleased": "2007",
+        "name": "stree",
+        "yearReleased": "2020",
         "language": "Hindi",
-        "director": "Priyadarshan"
-
-    
-
+        "director": "dev deol" 
     },
     {
-    "id": 32,
+      "id": 21,
+      "name": "Psycho",
+      "yearReleased": "1960",
+      "language": "English",
+      "director": " Alfred Hitchcock"
+    },
+    {
+      "id": 24,
+      "name": "Dead Silence",
+      "yearReleased": "2007",
+      "language": "English",
+      "director": "James Wan"
+    },
+      {
+        "id": 21,
+        "name": "Mahal",
+        "yearReleased": "1949",
+        "language": "Hindi",
+        "director": "Kamal Amrohi"
+      },
+      {
+          "id": 30,
+          "name": "US",
+          "yearReleased": "2019",
+          "language": "English",
+          "director": "Jordan Peele"
+      },
+       {
+          "id": 50,
+          "name": "1920",
+          "yearReleased": "2008",
+          "language": "Hindi",
+          "director": "Vikram Bhatt"
+      },
+       {
+          "id": 28,
+          "name": "Midsommar",
+          "yearReleased": "2019",
+          "language": "English",
+          "director": " Ari Aster"
+       },
+       {
+          "id": 23,
+          "name": "Bhool Bhulaiyaa 2",
+          "yearReleased": "2022",
+          "language": "English",
+          "director": "Mike Flannagan"
+      },
+     {
+          "id": 24,
+          "name": "Bhoot",
+          "yearReleased": "2022",
+          "language": "Hindi",
+          "director": "Bhanu Pratap Singh"
+      },
+      {
+          "id": 29,
+          "name": "Orphan",
+          "yearReleased": "2009",
+          "language": "English",
+          "director": "Jaume Collet-Serra"
+      },
+       {
+          "id": 21,
+          "name": "Bhool Bhulaiyaa 2",
+          "yearReleased": "2022",
+          "language": "English",
+          "director": "Anees Bazmee"
+  
+      },
+       {
+          "id": 21,
+          "name": "6-5=2",
+          "yearReleased": "2013",
+          "language": "Kannada",
+          "director": "K S Ashoka"
+      },
+      {
+          "id": 22,
+          "name": "Arundhati",
+          "yearReleased": "2009",
+          "language": "Telugu",
+          "director": "Kodi Ramakrishna"
+      },
+      {
+          "id": 31,
+          "name": "Incantation",
+          "yearReleased": "2022",
+          "language": "English",
+          "director": "Ti West"
+      },
+      {
+          "id": 25,
+          "name": "Nope",
+          "yearReleased": "2022",
+          "language": "English",
+          "director": "Jordan Peele"
+      
+      },
+       {
+          "id": 32,
+          "name": "Bhool Bhulaiyaa  ",
+          "yearReleased": "2007",
+          "language": "Hindi",
+          "director": "Priyadarshan"
+      },
+    {
+        "id": 32,
         "name": "stree",
         "yearReleased": "2019",
         "language": "Hindi",
         "director": "Amar Kaushik"
-        }
-
-    {
-    "id": 27,
-        "name": "sinister",
-        "yearReleased": "2012",
-        "language": "english",
-        "director": "scott derrickson"
     },
-
-       {
-        "id": 27,
-        "name": "1920",
-        "yearReleased": "2008",
-        "language": "Hindi",
-        "director": "Vikram Bhatt"
-
-    },
-    
-{
-        "id": 28,
-        "name": "Train to Busan",
-        "yearReleased": " 2016",
-        "language": "korean",
-        "director": "Yeon Sang-ho"
-
-
-    }
-    {
-    "id": 27,
-        "name": "sinister2",
-        "yearReleased": "2015",
-        "language": "english",
-        "director": "scott derrickson"
-    },
-    {
-        "id":21,
-        "name":"The Nun",
-        "yearReleased":"2018",
-        "language":"English",
-        "director":"Corin Hardy"
-    }
-
-
- 
-{
-    "id": 33,
-        "name": "Tumbad",
-        "yearReleased": "2018",
-        "language": "Hindi",
-        "director": "Rahi Barve"
-},
-    
- {
-        "id": 99,
-        "name": "kalo",
-        "yearReleased": "1960",
-        "language": "hindi",
-        "director": "pata nahi"
-
-    },
- {
-        "id": 27,
-        "name": "Bhootkaal",
-        "yearReleased": "2003",
-        "language": "Hindi",
-        "director": "Ram Gopal Varma"
-    },
-     {
-        "id": 21,
-        "name": "Bhool Bhulaiyaa 2",
-        "yearReleased": "2022",
-        "language": "English",
-        "director": "TZach Cregger"
-     },
-     
-    {
-        "id": 20,
-        "name": "Wrong Turn",
-        "yearReleased": "2021",
-        "language": "English",
-        "director": "Mike P. Nelson"
-    },
-    {
-        "id": 24,
-        "name": "IT",
-        "yearReleased": "2017",
-        "language": "English",
-        "director": "Andrés Muschietti"
-     
-    },
+  
+      {
+      "id": 27,
+          "name": "sinister",
+          "yearReleased": "2012",
+          "language": "english",
+          "director": "scott derrickson"
+      },
+  
+         {
+          "id": 27,
+          "name": "1920",
+          "yearReleased": "2008",
+          "language": "Hindi",
+          "director": "Vikram Bhatt"
+  
+      },
+      
+  {
+          "id": 28,
+          "name": "Train to Busan",
+          "yearReleased": " 2016",
+          "language": "korean",
+          "director": "Yeon Sang-ho"
+  
+  
+      },
+      {
+      "id": 27,
+          "name": "sinister2",
+          "yearReleased": "2015",
+          "language": "english",
+          "director": "scott derrickson"
+      },
+  
+  
+   
+  {
+      "id": 33,
+          "name": "Tumbad",
+          "yearReleased": "2018",
+          "language": "Hindi",
+          "director": "Rahi Barve"
+  },
+      
    {
-        "id": 25,
-        "name": "Bhoot,
-        "yearReleased": "2022",
-        "language": "Hindi",
-        "director": "Bhanu Pratap Singh"
+          "id": 99,
+          "name": "kalo",
+          "yearReleased": "1960",
+          "language": "hindi",
+          "director": "pata nahi"
+  
+      },
+   {
+          "id": 27,
+          "name": "Bhootkaal",
+          "yearReleased": "2003",
+          "language": "Hindi",
+          "director": "Ram Gopal Varma"
+      },
+  {
+    "id": 52,
+     "name": "Alone",
+      "yearReleased": "2015",
+      "language" : "Hindi",
+      "director": "Bhushan Patel"
+  },
+  {
+    "id": 53,
+     "name": "vyanki the Dian",
+      "yearReleased": "2022",
+      "language" : "Russian",
+      "director": "Vishal chauhan"
+  },
 
-
-
-    },
-     {
-        "id": 26,
-        "name": "6-5=2",
-        "yearReleased": "2013",
-        "language": "Kannada",
-        "director": "K S Ashoka"
-
-    },
-    {
-        "id": 27,
-        "name": "kanchan",
-        "yearReleased": "2013",
-        "language": "Hindi",
-        "director": "ssr"
-
-    },
-       {
-        "id": 22,
-        "name": "The Exorcist",
-        "yearReleased": "1973",
-        "language": "English",
-        "director": "William Friedkin"
+   {
+          "id": 26,
+          "name": "Host",
+          "yearReleased": "2020",
+          "language": "English",
+          "director": "Andy dataser"
     }
-{
-  "id": 52,
-   "name": "Alone",
-    "yearReleased": "2015",
-    "language" : "Hindi",
-    "director": "Bhushan Patel"
-},
-{
-  "id": 53,
-   "name": "vyanki the Dian",
-    "yearReleased": "2022",
-    "language" : "Russian",
-    "director": "Vishal chauhan"
-},
-{
-  "id": 54,
-   "name": "The House of the Devil",
-    "yearReleased": "1897",
-    "language" : "Russian",
-    "director": "Vishal chauhan"
-}
-
-{
-   "id": 54,
-   "name": "Bali",
-   "yearReleased": "2021",
-   "language" : "Marathi",
-   "director": "Vishal Furia"
-}
- 
 ]
+  
+  
+  
