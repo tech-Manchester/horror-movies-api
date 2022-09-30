@@ -145,5 +145,13 @@
         "director": "Mike P. Nelson"
 
 
-    }
+    },
+    
+    {
+        "id": 21,
+        "name": "The Shining",
+        "yearReleased": "1980",
+        "language": "English",
+        "director": "Stanley Kubrick"
+    },
 ]
