@@ -56,5 +56,12 @@
         "language": "English",
         "director": "James Wan"
 
+    },
+    {
+        "id": 6,
+        "name": "anabela",
+        "yearReleased": "2010",
+        "language": "English",
+        "director": "John"
     }
 ]
