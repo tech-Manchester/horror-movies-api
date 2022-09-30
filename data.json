@@ -256,4 +256,106 @@
       "language": "English",
       "director": "Mike Flannagan"
   }
+
+        "id": 25,
+        "name": "Bhoot,
+        "yearReleased": "2022",
+        "language": "Hindi",
+        "director": "Bhanu Pratap Singh"
+
+    },
+
+    {
+        "id": 26,
+        "name": "Alien: Covenant",
+        "yearReleased": " 2017",
+        "language": "English",
+        "director": "Ridley Scott"
+
+
+    },
+
+     {
+        "id": 27,
+        "name": "6-5=2",
+        "yearReleased": "2013",
+        "language": "Kannada",
+        "director": "K S Ashoka"
+    },
+    
+     {
+        "id": 21,
+        "name": "Dybbuk",
+        "yearReleased": "2021",
+        "language": "Hindi",
+        "director": "Jay Krishnan"
+     },
+    {
+        "id": 28,
+        "name": "House Of Usher",
+        "yearReleased": "1960",
+        "language": "English",
+        "director": "Roger Corman"
+
+    },
+    {
+        "id": 21,
+        "name": "stree",
+        "yearReleased": "2020",
+        "language": "Hindi",
+        "director": "dev deol"
+
+
+    }
+    {
+        "id": 21,
+        "name": "Mahal",
+        "yearReleased": "1949",
+        "language": "Hindi",
+        "director": "Kamal Amrohi"
+
+
+    }
+        "id": 30,
+        "name": "US",
+        "yearReleased": "2019",
+        "language": "English",
+        "director": "Jordan Peele"
+    },
+     {
+        "id": 50,
+        "name": "1920",
+        "yearReleased": "2008",
+        "language": "Hindi",
+        "director": "Vikram Bhatt"
+    }
+
+
+    },
+     {
+        "id": 31,
+        "name": "Incantation",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Kevin Ko"
+
+
+    }
+     {
+        "id": 32,
+        "name": "Bhool Bhulaiyaa  ",
+        "yearReleased": "2007",
+        "language": "Hindi",
+        "director": "Priyadarshan"
+
+
+    },{
+    "id": 32,
+        "name": "stree",
+        "yearReleased": "2019",
+        "language": "Hindi",
+        "director": "Amar Kaushik"
+ 
+        }
+ 
 ]
