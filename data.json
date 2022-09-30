@@ -243,23 +243,20 @@
         "director": "Roger Corman"
 
     }
-    {
-        "id": 30,
-        "name": "US",
-        "yearReleased": "2019",
-        "language": "English",
-        "director": "Jordan Peele"
 
-
-    },
      {
-        "id": 22,
-        "name": "Incantation",
+        "id": 23,
+        "name": "The Midnigth club",
         "yearReleased": "2022",
         "language": "English",
-        "director": "Kevin Ko"
-
-
-    }
+        "director": "Mike Flannagan"
+    },
+{
+        "id": 29,
+        "name": "Orphan",
+        "yearReleased": "2009",
+        "language": "English",
+        "director": "Jaume Collet-Serra"
+    },
 
 ]
