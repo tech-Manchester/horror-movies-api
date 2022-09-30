@@ -42,25 +42,26 @@
         "director": "Kannan Iyer"
     },
     {
+
         "id": 7,
+        "name": "The Midnigth club",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Mike Flannagan"
+    },
+    {
+        "id": 8,
         "name": "Insidious",
         "yearReleased": "2010",
         "language": "English",
         "director": "James Wan"
-    },
-    {
-        "id": 8,
-        "name": "anabela",
-        "yearReleased": "2010",
-        "language": "English",
-        "director": "John"
 
     },
     {
-       "id": 9,
-       "name": "Lights Out ",
-       "yearReleased": "2016",
-       "language": "English",
-       "director": "David F. Sandberg"
-    }   
+        "id": 9,
+        "name": "Veronica",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "plazo"
+    }
 ]
