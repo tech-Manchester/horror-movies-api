@@ -147,15 +147,6 @@
     },
     {
         "id": 21,
-        "name": "X",
-        "yearReleased": "2022",
-        "language": "English",
-        "director": "Ti West"
-
-
-    },
-    {
-        "id": 22,
         "name": "Annabelle",
         "yearReleased": "2014",
         "language": "English",
@@ -164,35 +155,44 @@
 
     },
      {
-        "id": 23,
+        "id": 22,
         "name": "nightmare of the elm street",
         "yearReleased": "1984",
         "language": "English",
         "director": "Wes Craven"
     },
      {
-        "id": 24,
+        "id": 23,
         "name": "Bhool Bhulaiyaa 2",
         "yearReleased": "2022",
         "language": "English",
         "director": "Anees Bazmee"
     },
    {
-        "id": 25,
+        "id": 24,
         "name": "Bhoot,
         "yearReleased": "2022",
         "language": "Hindi",
         "director": "Bhanu Pratap Singh"
 
 
-
     }
      {
-        "id": 26,
+        "id": 25,
         "name": "6-5=2",
         "yearReleased": "2013",
         "language": "Kannada",
         "director": "K S Ashoka"
 
     },
+
 ]
+ {
+        "id": 26,
+        "name": "Host",
+        "yearReleased": "2020",
+        "language": "English",
+        "director": "Andy dataser"
+    },
+
+
