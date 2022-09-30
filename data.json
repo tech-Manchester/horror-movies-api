@@ -145,6 +145,16 @@
 
 
     },
+     {
+    "id": 21,
+    "name": "Psycho",
+    "yearReleased": "1960",
+    "language": "English",
+    "director": " Alfred Hitchcock"
+}
+
+
+    },
     {
         "id": 21,
         "name": "X",
@@ -195,4 +205,5 @@
         "director": "K S Ashoka"
 
     },
+
 ]
