@@ -155,5 +155,12 @@
         "yearReleased": "2022",
         "language": "English",
         "director": "Anees Bazmee"
+    },
+       {
+        "id": 22,
+        "name": "The Exorcist",
+        "yearReleased": "1973",
+        "language": "English",
+        "director": "William Friedkin"
     }
 ]
