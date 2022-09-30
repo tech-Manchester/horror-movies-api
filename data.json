@@ -145,5 +145,14 @@
         "director": "Mike P. Nelson"
 
 
+    },
+    {
+        "id": 21,
+        "name": "X",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Ti West"
+
+
     }
 ]
