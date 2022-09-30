@@ -251,6 +251,15 @@
         "director": "Jordan Peele"
 
 
+    },
+     {
+        "id": 22,
+        "name": "Incantation",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Kevin Ko"
+
+
     }
 
 ]
