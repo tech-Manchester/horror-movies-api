@@ -1120,19 +1120,5 @@
         "yearReleased": "2017",
         "language": "English",
         "director": "Andy Muschietti"
-    },
-    {
-        "id": 31,
-        "name": "IT",
-        "yearReleased": "2017",
-        "language": "English",
-        "director": "Andy Muschietti"
-    },
-    {
-        "id": 45,
-        "name": "Puppet Master 5: The Final Chapter",
-        "yearReleased": "1994",
-        "language": "English",
-        "director": "Jeff Burr"
     }
 ]
