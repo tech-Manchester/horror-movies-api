@@ -114,11 +114,12 @@
     
     {
         "id": 17,
-        "name": "hello mini",
-        "yearReleased": "2014",
-        "language": "hindi",
-        "director": "ekta kapoor"
-    },
+        "name": "Kanchana",
+        "yearReleased": "2016",
+        "language": "Tamil",
+        "director": "Indian Insan"      
+
+    },   
 
     {
         "id": 18,
@@ -142,6 +143,7 @@
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
+
 
     }
 ]
