@@ -692,6 +692,12 @@
 
 
     },
+    
+        "id": 21,
+        "name": "The Exorcist",
+        "yearReleased": "1973",
+        "language": "English",
+        "director": "William Friedkin"
      {
         "id": 21,
         "name": "The NUN",
