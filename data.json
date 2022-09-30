@@ -145,5 +145,12 @@
         "director": "Mike P. Nelson"
 
 
+    },
+    {
+        "id": 21,
+        "name": " Horror Story",
+        "yearReleased": "2013",
+        "language":"Hindi",
+        "director":"Ayush Raina"
     }
 ]
