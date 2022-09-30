@@ -623,6 +623,15 @@
           "yearReleased": "2020",
           "language": "English",
           "director": "Andy dataser"
+    }
+    
+       {
+          "id": 27,
+          "name": "Dead Silence",
+          "yearReleased": "2007",
+          "language": "English",
+          "director": "James Wan"
+    }
     },
       {
       "id": 7008,
@@ -636,7 +645,7 @@
   
   
   
-
+{
         "id": 26,
         "name": "6-5=2",
         "yearReleased": "2013",
@@ -672,7 +681,7 @@
         "yearReleased": "1973",
         "language": "English",
         "director": "William Friedkin"
-    }
+    },
 {
   "id": 52,
    "name": "Alone",
