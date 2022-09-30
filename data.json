@@ -145,5 +145,12 @@
         "director": "Mike P. Nelson"
 
 
-    }
+    },
+     {
+    "id": 21,
+    "name": "Psycho",
+    "yearReleased": "1960",
+    "language": "English",
+    "director": " Alfred Hitchcock"
+}
 ]
