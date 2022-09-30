@@ -114,12 +114,20 @@
         "director": "João Pedro Rodrigues"
 
     },
+    
     {
         "id": 16,
         "name": "The Conjuring",
         "yearReleased": "2013",
         "language": "English",
         "director": "James Wan"
+    },
+    {
+        "id": 17,
+        "name": "Paranormal Activity",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "Oren Peli"
     }
 
 
