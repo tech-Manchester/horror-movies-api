@@ -113,6 +113,13 @@
         "language": "English",
         "director": "João Pedro Rodrigues"
 
+    },
+    {
+        "id": 16,
+        "name": "The Conjuring",
+        "yearReleased": "2013",
+        "language": "English",
+        "director": "James Wan"
     }
 
 
