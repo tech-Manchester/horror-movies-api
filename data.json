@@ -146,4 +146,12 @@
 
 
     }
+    
+        {
+        "id": 23,
+        "name": "IT",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "Andy Muschietti"
+    },
 ]
