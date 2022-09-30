@@ -269,5 +269,11 @@
         "director": "Priyadarshan"
 
 
-    }
+    },{
+    "id": 32,
+        "name": "stree",
+        "yearReleased": "2019",
+        "language": "Hindi",
+        "director": "Amar Kaushik"
+        }
 ]
