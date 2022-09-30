@@ -507,6 +507,61 @@
       "director": "Vishal chauhan"
   },
 
+    {
+    "id": 27,
+        "name": "sinister2",
+        "yearReleased": "2015",
+        "language": "english",
+        "director": "scott derrickson"
+    },
+
+
+ 
+        
+{
+    "id": 33,
+        "name": "Tumbad",
+        "yearReleased": "2018",
+        "language": "Hindi",
+        "director": "Rahi Barve"
+},
+    
+ {
+        "id": 99,
+        "name": "kalo",
+        "yearReleased": "1960",
+        "language": "hindi",
+        "director": "pata nahi"
+
+    },
+ {
+        "id": 27,
+        "name": "Bhootkaal",
+        "yearReleased": "2003",
+        "language": "Hindi",
+        "director": "Ram Gopal Varma"
+    },
+{
+  "id": 52,
+   "name": "Alone",
+    "yearReleased": "2015",
+    "language" : "Hindi",
+    "director": "Bhushan Patel"
+},
+{
+  "id": 53,
+   "name": "vyanki the Dian",
+    "yearReleased": "2022",
+    "language" : "Russian",
+    "director": "Vishal chauhan"
+},
+{
+  "id": 56,
+   "name": "Conjuring",
+    "yearReleased": "2013",
+    "language" : "English",
+    "director": "James Wan"
+},
    {
           "id": 26,
           "name": "Host",
