@@ -882,6 +882,13 @@
         "yearReleased": "2011",
         "language": "Hindi",
         "director": "Vikram Bhatt"
+    },
+    {
+         "id": 23,
+        "name": "Resident Evil",
+        "yearReleased": "2002",
+        "language": "English",
+        "director": "Paul W.S. Anderson"
     }
 ]
 
