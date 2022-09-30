@@ -36,19 +36,20 @@
     },
     {
         "id": 6,
-        "name": "Ek Thi Daayan",
-        "yearReleased": "2013",
-        "language": "Hindi",
-        "director": "Kannan Iyer"
+
+        "name": "one missed call",
+        "yearReleased": "2008",
+        "language": "English",
+        "director": "Eric Vallete"
     },
     {
-
         "id": 7,
         "name": "The Midnigth club",
         "yearReleased": "2022",
         "language": "English",
         "director": "Mike Flannagan"
     },
+    
     {
         "id": 8,
         "name": "Insidious",
@@ -57,11 +58,33 @@
         "director": "James Wan"
 
     },
+    
     {
         "id": 9,
         "name": "Veronica",
         "yearReleased": "2017",
         "language": "English",
         "director": "plazo"
+    },
+    
+    {    
+
+       "id": 10,
+       "name": "Lights Out ",
+       "yearReleased": "2016",
+       "language": "English",
+       "director": "David F. Sandberg"
+    },    
+      
+    {
+        "id": 11,
+        "name": "Veronica",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "paco plazo"
+
     }
+
+
+
 ]
