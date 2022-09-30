@@ -117,5 +117,12 @@
         "yearReleased": "2022",
         "language": "English",
         "director": "Ti West"
+    },
+      {
+        "id": 18,
+        "name": " Barbarian",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "TZach Cregger"
     }
 ]
