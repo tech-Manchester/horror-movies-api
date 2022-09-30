@@ -21,7 +21,14 @@
         "director": "Andy Newsir"
     },
     {
-        "id": 3,
+        "id": 4,
+        "name": "Dahmer",
+        "yearReleased": "2002",
+        "language": "English",
+        "director": "David Jacobson"
+    },
+    {
+        "id": 5,
         "name": "The Conjuring",
         "yearReleased": "2013",
         "language": "English",
