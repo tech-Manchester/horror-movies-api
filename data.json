@@ -141,6 +141,20 @@
     },
     {
         "id": 21,
+        "name": "Videodrome",
+        "yearReleased": "1983",
+        "language": "English",
+        "director": " David Cronenberg"
+    },
+    {
+        "id": 21,
+        "name": " Horror Story",
+        "yearReleased": "2013",
+        "language": "Hindi",
+        "director": "Ayush Raina"
+    },
+    {
+        "id": 21,
         "name": "The Exorcist",
         "yearReleased": "2018",
         "language": "English",
@@ -620,7 +634,6 @@
         "name": "The Woman in Black",
         "yearReleased": "2012",
         "language": "English",
-
         "director": "Corin Hardy"
     },
     {
@@ -701,4 +714,3 @@
         "director": "David F. Sandberg"
     }
 ]
-
