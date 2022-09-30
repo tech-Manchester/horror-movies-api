@@ -56,5 +56,14 @@
         "language": "English",
         "director": "James Wan"
 
+    },
+      
+    {
+        "id": 9,
+        "name": "Veronica",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "paco plazo"
+
     }
 ]
