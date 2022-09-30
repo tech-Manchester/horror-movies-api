@@ -219,7 +219,7 @@
         "director": "Ridley Scott"
 
 
-    }
+    },
 
      {
         "id": 27,
@@ -230,6 +230,13 @@
 
     },
 
+    {
+        "id": 28,
+        "name": "House Of Usher",
+        "yearReleased": "1960",
+        "language": "English",
+        "director": "Roger Corman"
 
+    }
 
 ]
