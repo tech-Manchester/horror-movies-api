@@ -138,42 +138,27 @@
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
-    }
-      
+    },
     {
         "id": 20,
         "name": "Wrong Turn",
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
-    }
- 
-
-
-    
-     {
+    },
+    {
         "id": 21,
         "name": "Videodrome",
         "yearReleased": "1983",
         "language": "English",
         "director": " David Cronenberg"
     },
-    
-    {
-        "id": 21,
-        "name": "Dahaan",
-        "yearReleased": "2022",
-        "language": "Hindi",
-        "director": "Vikrant Pawar"
-
-
     {
         "id": 21,
         "name": " Horror Story",
         "yearReleased": "2013",
-        "language":"Hindi",
-        "director":"Ayush Raina"
-    
+        "language": "Hindi",
+        "director": "Ayush Raina"
     },
     {
         "id": 21,
@@ -363,8 +348,6 @@
         "yearReleased": "2008",
         "language": "Hindi",
         "director": "Vikram Bhatt"
-    
-
     },
     {
         "id": 21,
@@ -658,38 +641,50 @@
         "name": "The Woman in Black",
         "yearReleased": "2012",
         "language": "English",
-
         "director": "Corin Hardy"
-     },
-{
-  "id": 52,
-   "name": "Alone",
-    "yearReleased": "2015",
-    "language" : "Hindi",
-    "director": "Bhushan Patel"
-},
-{
-  "id": 53,
-   "name": "vyanki the Dian",
-    "yearReleased": "2022",
-    "language" : "Russian",
-    "director": "Vishal chauhan"
-},
-{
-  "id": 54,
-   "name": "The Woman in Black",
-    "yearReleased": "2012",
-    "language" : "English",
-    "director": "James Watkins"
-},
-
-{
-  "id": 55,
-   "name": "Innocent Curse",
-    "yearReleased": "2017",
-    "language" : "japanese",
-    "director": "Takashi Shimizu"
-},
+    },
+    {
+        "id": 52,
+        "name": "Alone",
+        "yearReleased": "2015",
+        "language": "Hindi",
+        "director": "Bhushan Patel"
+    },
+    {
+        "id": 53,
+        "name": "vyanki the Dian",
+        "yearReleased": "2022",
+        "language": "Russian",
+        "director": "Vishal chauhan"
+    },
+    {
+        "id": 54,
+        "name": "The Woman in Black",
+        "yearReleased": "2012",
+        "language": "English",
+        "director": "James Watkins"
+    },
+    {
+        "id": 52,
+        "name": "Alone",
+        "yearReleased": "2015",
+        "language": "Hindi",
+        "director": "Bhushan Patel"
+    },
+    {
+        "id": 53,
+        "name": "vyanki the Dian",
+        "yearReleased": "2022",
+        "language": "Russian",
+        "director": "Vishal chauhan"
+    },
+    {
+        "id": 54,
+        "name": "The Woman in Black",
+        "yearReleased": "2012",
+        "language": "English",
+        "director": "James Watkins"
+    },
     {
         "id": 55,
         "name": "Innocent Curse",
@@ -698,11 +693,31 @@
         "director": "Takashi Shimizu"
     },
     {
-
-      "id": 56,
-      "name": "Lights Out ",
-      "yearReleased": "2016",
-      "language": "English",
-      "director": "David F. Sandberg"
-  },
+        "id": 55,
+        "name": "Innocent Curse",
+        "yearReleased": "2017",
+        "language": "japanese",
+        "director": "Takashi Shimizu"
+    },
+    {
+        "id": 56,
+        "name": "Old",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "M. Night Shyamalan"
+    },
+    {
+        "id": 55,
+        "name": "Innocent Curse",
+        "yearReleased": "2017",
+        "language": "japanese",
+        "director": "Takashi Shimizu"
+    },
+    {
+        "id": 56,
+        "name": "Lights Out ",
+        "yearReleased": "2016",
+        "language": "English",
+        "director": "David F. Sandberg"
+    }
 ]
