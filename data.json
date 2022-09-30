@@ -332,6 +332,7 @@
 
 
     }
+
     {
         "id": 21,
         "name": "Mahal",
@@ -356,6 +357,7 @@
     }
 
 
+ 
     },
     {
         "id": 28,
@@ -364,6 +366,19 @@
         "language": "English",
         "director": " Ari Aster"
      {
+        "id": 23,
+        "name": "The Midnigth club",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Mike Flannagan"
+    },
+{
+        "id": 29,
+        "name": "Orphan",
+        "yearReleased": "2009",
+        "language": "English",
+        "director": "Jaume Collet-Serra"
+    },
         "id": 31,
         "name": "Incantation",
         "yearReleased": "2022",
