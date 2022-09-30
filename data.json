@@ -155,25 +155,34 @@
 
     },
      {
-        "id": 21,
+        "id": 22,
         "name": "nightmare of the elm street",
         "yearReleased": "1984",
         "language": "English",
         "director": "Wes Craven"
     },
      {
-        "id": 21,
+        "id": 23,
         "name": "Bhool Bhulaiyaa 2",
         "yearReleased": "2022",
         "language": "English",
         "director": "Anees Bazmee"
+    },
+   {
+        "id": 24,
+        "name": "Bhoot,
+        "yearReleased": "2022",
+        "language": "Hindi",
+        "director": "Bhanu Pratap Singh"
+
 
     }
      {
-        "id": 21,
+        "id": 25,
         "name": "6-5=2",
         "yearReleased": "2013",
         "language": "Kannada",
         "director": "K S Ashoka"
+
     },
 ]
