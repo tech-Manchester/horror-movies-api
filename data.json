@@ -22,9 +22,16 @@
     },
     {
         "id": 4,
-        "name": "dahmer",
+        "name": "Dahmer",
         "yearReleased": "2002",
         "language": "English",
         "director": "David Jacobson"
+    },
+    {
+        "id": 5,
+        "name": "The Conjuring",
+        "yearReleased": "2013",
+        "language": "English",
+        "director": "James Wan"
     }
 ]
