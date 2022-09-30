@@ -897,10 +897,14 @@
         "language": "HINDI",
         "director": "Ayan Mukerji"
 
-
     },
-
-    
+     {
+        "id": 21,
+        "name": "IT'S ALIVE! ",
+        "yearReleased": "1974",
+        "language": "English",
+        "director": "Larry Cohen"
+},
     {
         "id": 28,
         "name": "The Grudge",
@@ -916,6 +920,7 @@
         "yearReleased": "2011",
         "language": "Hindi",
         "director": "Vikram Bhatt"
+
     }
 
 ]
