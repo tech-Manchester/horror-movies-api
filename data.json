@@ -35,22 +35,32 @@
         "director": "James Wan"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Ek Thi Daayan",
         "yearReleased": "2013",
         "language": "Hindi",
         "director": "Kannan Iyer"
     },
     {
-        "id": 5,
+        "id": 7,
         "name": "Insidious",
         "yearReleased": "2010",
         "language": "English",
         "director": "James Wan"
-    }
-       "id": 6,
+    },
+    {
+        "id": 8,
+        "name": "anabela",
+        "yearReleased": "2010",
+        "language": "English",
+        "director": "John"
+
+    },
+    {
+       "id": 9,
        "name": "Lights Out ",
        "yearReleased": "2016",
        "language": "English",
        "director": "David F. Sandberg"
+    }   
 ]
