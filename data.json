@@ -142,11 +142,44 @@
         "language": "English",
         "director": "Mike P. Nelson"
 
+    },
+    {
+        "id": 21,
+        "name": "The Exorcist",
+        "yearReleased": "2018",
+        "language": "English",
+        "director": "Andy Newber"
+
+
+    },
+     {
+        "id": 22,
+        "name": "The Weird Man",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "Mike P. Nelson"
+    
+    },
+     {
+    "id": 21,
+    "name": "Psycho",
+    "yearReleased": "1960",
+    "language": "English",
+    "director": " Alfred Hitchcock"
 
 
     },
     {
         "id": 21,
+        "name": "X",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Ti West"
+
+
+    },
+    {
+        "id": 22,
         "name": "Annabelle",
         "yearReleased": "2014",
         "language": "English",
@@ -155,19 +188,62 @@
 
     },
      {
-        "id": 21,
+        "id": 23,
         "name": "nightmare of the elm street",
         "yearReleased": "1984",
         "language": "English",
         "director": "Wes Craven"
     },
      {
-        "id": 21,
+        "id": 24,
         "name": "Bhool Bhulaiyaa 2",
         "yearReleased": "2022",
         "language": "English",
         "director": "Anees Bazmee"
+    },
+   {
+        "id": 25,
+        "name": "Bhoot,
+        "yearReleased": "2022",
+        "language": "Hindi",
+        "director": "Bhanu Pratap Singh"
+
+    },
+
+    {
+        "id": 26,
+        "name": "Alien: Covenant",
+        "yearReleased": " 2017",
+        "language": "English",
+        "director": "Ridley Scott"
+
+
+    },
+
+     {
+        "id": 27,
+        "name": "6-5=2",
+        "yearReleased": "2013",
+        "language": "Kannada",
+        "director": "K S Ashoka"
+    },
+    
+     {
+        "id": 21,
+        "name": "Dybbuk",
+        "yearReleased": "2021",
+        "language": "Hindi",
+        "director": "Jay Krishnan"
+
+    {
+        "id": 28,
+        "name": "House Of Usher",
+        "yearReleased": "1960",
+        "language": "English",
+        "director": "Roger Corman"
+
     }
+
      {
         "id": 23,
         "name": "The Midnigth club",
@@ -175,4 +251,5 @@
         "language": "English",
         "director": "Mike Flannagan"
     },
+
 ]
