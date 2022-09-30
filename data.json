@@ -19,5 +19,13 @@
         "yearReleased": "2004",
         "language": "English",
         "director": "Andy Newsir"
+    },
+    
+    {
+        "id": 4,
+        "name": "The Conjuring",
+        "yearReleased": "2013",
+        "language": "English",
+        "director": "James Wan"
     }
 ]
