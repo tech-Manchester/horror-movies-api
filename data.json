@@ -145,5 +145,14 @@
         "director": "Mike P. Nelson"
 
 
+    },
+     {
+        "id": 24,
+        "name": "Dead Silence",
+        "yearReleased": "2007",
+        "language": "English",
+        "director": "James Wan"
+
+
     }
 ]
