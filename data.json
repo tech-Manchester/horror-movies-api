@@ -242,6 +242,15 @@
         "language": "English",
         "director": "Roger Corman"
 
+    },
+    {
+        "id": 21,
+        "name": "stree",
+        "yearReleased": "2020",
+        "language": "Hindi",
+        "director": "dev deol"
+
+
     }
     {
         "id": 21,
