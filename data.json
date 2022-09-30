@@ -359,6 +359,18 @@
  
     },
     {
+        "id": 21,
+        "name": "Annabelle",
+        "yearReleased": "2014",
+        "language": "English",
+        "director": " John R. Leonetti"
+
+
+    },
+     {
+        "id": 21,
+        "name": "nightmare of the elm street",
+        "yearReleased": "1984",
         "id": 28,
         "name": "Midsommar",
         "yearReleased": "2019",
@@ -382,6 +394,26 @@
         "director": "Jaume Collet-Serra"
     },
      {
+        "id": 21,
+        "name": "Bhool Bhulaiyaa 2",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Anees Bazmee"
+
+    }
+     {
+        "id": 21,
+        "name": "6-5=2",
+        "yearReleased": "2013",
+        "language": "Kannada",
+        "director": "K S Ashoka"
+    },
+    {
+        "id": 22,
+        "name": "Arundhati",
+        "yearReleased": "2009",
+        "language": "Telugu",
+        "director": "Kodi Ramakrishna"
         "id": 31,
         "name": "Incantation",
         "yearReleased": "2022",
