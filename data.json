@@ -122,13 +122,35 @@
         "language": "English",
         "director": "James Wan"
     },
+    
     {
         "id": 17,
         "name": "Paranormal Activity",
-        "yearReleased": "2017",
+        "yearReleased": "2007",
         "language": "English",
         "director": "Oren Peli"
-    }
+    },
+    {
+        "id": 18,
+        "name": "Paranormal Activity 2",
+        "yearReleased": "2010",
+        "language": "English",
+        "director": "Tod Williams"
+    },
+    {
+        "id": 19,
+        "name": "Paranormal Activity 3",
+        "yearReleased": "2011",
+        "language": "English",
+        "director": "Henry joost,Ariel Schulman"
+    },
+    {
+        "id": 20,
+        "name": "Paranormal Activity 4",
+        "yearReleased": "2012",
+        "language": "English",
+        "director": "Henry joost,Ariel Schulman"
+    },
 
 
 
