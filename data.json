@@ -701,7 +701,7 @@
     "yearReleased": "2012",
     "language" : "English",
     "director": "James Watkins"
-}
+},
 
 {
   "id": 55,
@@ -709,6 +709,13 @@
     "yearReleased": "2017",
     "language" : "japanese",
     "director": "Takashi Shimizu"
+},
+{
+  "id": 79,
+   "name": "The Ring",
+   "yearReleased": "2003",
+   "language" : "English",
+   "director": "Gore Verbinski"
 }
  
 ]
