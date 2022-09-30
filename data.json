@@ -226,9 +226,16 @@
         "yearReleased": "2013",
         "language": "Kannada",
         "director": "K S Ashoka"
-
     },
+    
+     {
+        "id": 21,
+        "name": "Dybbuk",
+        "yearReleased": "2021",
+        "language": "Hindi",
+        "director": "Jay Krishnan"
 
 
+    }
 
 ]
