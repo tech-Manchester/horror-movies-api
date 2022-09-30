@@ -739,6 +739,13 @@
     "yearReleased": "2017",
     "language" : "japanese",
     "director": "Takashi Shimizu"
-}
+},
+{
+      "id": 56,
+      "name": "The Conjuring",
+      "yearReleased": "2013",
+      "language": "English",
+      "director": "James Wan"
+  },
  
 ]
