@@ -143,7 +143,19 @@
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
-
-
     }
-]
+      
+    {
+        "id": 20,
+        "name": "Wrong Turn",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "Mike P. Nelson"
+    }
+ {
+        "id": 21,
+        "name": "1920",
+        "yearReleased": "2008",
+        "language": "Hindi",
+        "director": "Vikram Bhatt"
+    }
