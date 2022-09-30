@@ -36,18 +36,21 @@
     },
     {
         "id": 6,
-        "name": "Ek Thi Daayan",
-        "yearReleased": "2013",
-        "language": "Hindi",
-        "director": "Kannan Iyer"
+
+        "name": "one missed call",
+        "yearReleased": "2008",
+        "language": "English",
+        "director": "Eric Vallete"
     },
-    {
+
+   {
         "id": 7,
         "name": "Insidious",
         "yearReleased": "2010",
         "language": "English",
         "director": "James Wan"
     },
+    
     {
         "id": 8,
         "name": "anabela",
@@ -56,6 +59,7 @@
         "director": "John"
 
     },
+    
     {
 
         "id": 9,
@@ -74,5 +78,6 @@
        "language": "English",
        "director": "David F. Sandberg"
     }   
+
 
 ]
