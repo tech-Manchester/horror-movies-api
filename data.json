@@ -19,5 +19,12 @@
         "yearReleased": "2004",
         "language": "English",
         "director": "Andy Newsir"
+    },
+    {
+        "id": 4,
+        "name": "dahmer",
+        "yearReleased": "2002",
+        "language": "English",
+        "director": "David Jacobson"
     }
 ]
