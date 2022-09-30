@@ -145,5 +145,14 @@
         "director": "Mike P. Nelson"
 
 
+    },
+    {
+        "id": 21,
+        "name": "stree",
+        "yearReleased": "2020",
+        "language": "Hindi",
+        "director": "dev deol"
+
+
     }
 ]
