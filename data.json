@@ -177,13 +177,6 @@
     },
     {
         "id": 21,
-        "name": "World War Z",
-        "yearReleased": "2013",
-        "language": "English",
-        "director": "Marc Forster"
-    },
-    {
-        "id": 22,
         "name": "Videodrome",
         "yearReleased": "1983",
         "language": "English",
@@ -493,13 +486,6 @@
     },
     {
         "id": 21,
-
-        "name": "The Exorcist",
-        "yearReleased": "1973",
-        "language": "English",
-        "director": "William Friedkin"
-        },
-        {"id":22,
         "name": "Bhool Bhulaiyaa 2",
         "yearReleased": "2022",
         "language": "English",
@@ -649,9 +635,6 @@
         "yearReleased": "2018",
         "language": "English",
         "director": "Corin Hardy"
-    
-
-
     },
     {
         "id": 33,
@@ -1031,15 +1014,15 @@
 
 
     },
-    
-        {
-        "id": 23,
-        "name": "IT",
-        "yearReleased": "2017",
+    {
+         "id": 29,
+        "name": "The Conjuring",
+        "yearReleased": "2013",
         "language": "English",
-        "director": "Andy Muschietti"
-    }
+        "director": "James Wan"
 
+    }
+    
 
 ]
 
