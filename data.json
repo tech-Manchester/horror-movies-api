@@ -234,7 +234,7 @@
         "yearReleased": "2021",
         "language": "Hindi",
         "director": "Jay Krishnan"
-
+     },
     {
         "id": 28,
         "name": "House Of Usher",
@@ -242,15 +242,19 @@
         "language": "English",
         "director": "Roger Corman"
 
-    }
+    },
     {
         "id": 30,
         "name": "US",
         "yearReleased": "2019",
         "language": "English",
         "director": "Jordan Peele"
-
-
+    },
+     {
+        "id": 50,
+        "name": "1920",
+        "yearReleased": "2008",
+        "language": "Hindi",
+        "director": "Vikram Bhatt"
     }
-
 ]
