@@ -176,13 +176,6 @@
     },
     {
         "id": 21,
-        "name": "World War Z",
-        "yearReleased": "2013",
-        "language": "English",
-        "director": "Marc Forster"
-    },
-    {
-        "id": 22,
         "name": "Videodrome",
         "yearReleased": "1983",
         "language": "English",
@@ -1006,6 +999,13 @@
         "yearReleased": "1973",
         "language": "English",
         "director": "John boorman"
+    },
+    {
+        "id": 29,
+        "name": "The Conjuring",
+        "yearReleased": "2013",
+        "language": "English",
+        "director": "James Wan"
     },
     {
         "id": 23,
