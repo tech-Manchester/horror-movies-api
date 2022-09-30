@@ -486,6 +486,13 @@
         "language": "english",
         "director": "scott derrickson"
     },
+    {
+        "id":21,
+        "name":"The Nun",
+        "yearReleased":"2018",
+        "language":"English",
+        "director":"Corin Hardy"
+    }
 
 
  
