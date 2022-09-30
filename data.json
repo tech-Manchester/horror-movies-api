@@ -244,6 +244,7 @@
         "language": "English",
         "director": " John R. Leonetti"
     },
+
     {
         "id": 34,
         "name": "nightmare of the elm street",
@@ -335,6 +336,7 @@
         "language": "English",
         "director": "Wes Craven"
     },
+
     {
         "id": 24,
         "name": "Bhool Bhulaiyaa 2",
@@ -511,6 +513,7 @@
         "director": "Anees Bazmee"
     },
     {
+        "id": 24,
         "id": 21,
         "name": "6-5=2",
         "yearReleased": "2013",
