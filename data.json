@@ -324,6 +324,12 @@
 
     },
      {
+    "id": 21,
+    "name": "Psycho",
+    "yearReleased": "1960",
+    "language": "English",
+    "director": " Alfred Hitchcock"
+}
         "id": 24,
         "name": "Dead Silence",
         "yearReleased": "2007",
@@ -455,6 +461,24 @@
         "director": "scott derrickson"
     },
 
+       {
+        "id": 27,
+        "name": "1920",
+        "yearReleased": "2008",
+        "language": "Hindi",
+        "director": "Vikram Bhatt"
+
+    },
+    
+{
+        "id": 28,
+        "name": "Train to Busan",
+        "yearReleased": " 2016",
+        "language": "korean",
+        "director": "Yeon Sang-ho"
+
+
+    }
     {
     "id": 27,
         "name": "sinister2",
@@ -462,10 +486,16 @@
         "language": "english",
         "director": "scott derrickson"
     },
+    {
+        "id":21,
+        "name":"The Nun",
+        "yearReleased":"2018",
+        "language":"English",
+        "director":"Corin Hardy"
+    }
 
 
  
-        },
 {
     "id": 33,
         "name": "Tumbad",
@@ -482,6 +512,193 @@
         "director": "pata nahi"
 
     },
+ {
+        "id": 27,
+        "name": "Bhootkaal",
+        "yearReleased": "2003",
+        "language": "Hindi",
+        "director": "Ram Gopal Varma"
+    },
+     {
+        "id": 21,
+        "name": "Bhool Bhulaiyaa 2",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "TZach Cregger"
+     },
+     
+    {
+        "id": 20,
+        "name": "Wrong Turn",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "Mike P. Nelson"
+    },
+    {
+        "id": 24,
+        "name": "IT",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "Andrés Muschietti"
+     
+    },
+   {
+        "id": 25,
+        "name": "Bhoot,
+        "yearReleased": "2022",
+        "language": "Hindi",
+        "director": "Bhanu Pratap Singh"
+
+
+
+    },
+     {
+        "id": 21,
+        "name": "Anabella",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "John R. Leonetti"
+        },
+    {
+    "id": 27,
+        "name": "sinister2",
+        "yearReleased": "2015",
+        "language": "english",
+        "director": "scott derrickson"
+    },
+
+
+ 
+        
+{
+    "id": 33,
+        "name": "Tumbad",
+        "yearReleased": "2018",
+        "language": "Hindi",
+        "director": "Rahi Barve"
+},
+    
+ {
+        "id": 99,
+        "name": "kalo",
+        "yearReleased": "1960",
+        "language": "hindi",
+        "director": "pata nahi"
+
+    },
+ {
+        "id": 27,
+        "name": "Bhootkaal",
+        "yearReleased": "2003",
+        "language": "Hindi",
+        "director": "Ram Gopal Varma"
+    },
+{
+  "id": 52,
+   "name": "Alone",
+    "yearReleased": "2015",
+    "language" : "Hindi",
+    "director": "Bhushan Patel"
+},
+{
+  "id": 53,
+   "name": "vyanki the Dian",
+    "yearReleased": "2022",
+    "language" : "Russian",
+    "director": "Vishal chauhan"
+},
+{
+  "id": 56,
+   "name": "Conjuring",
+    "yearReleased": "2013",
+    "language" : "English",
+    "director": "James Wan"
+},
+   {
+        
+
+{
+        "id": 29,
+        "name": "Hereditary",
+        "yearReleased": "2018",
+        "language": "English",
+        "director": "Ari Aster"
+    }
+
+   {
+          "id": 26,
+          "name": "Host",
+          "yearReleased": "2020",
+          "language": "English",
+          "director": "Andy dataser"
+    },
+      {
+      "id": 7008,
+      "name": "Handjob Cabin",
+      "yearReleased": "2015",
+      "language": "English",
+      "director": "Bennet Silverman"
+  },
+    
+]
+  
+  
+  
+
+        "id": 26,
+        "name": "6-5=2",
+        "yearReleased": "2013",
+        "language": "Kannada",
+        "director": "K S Ashoka"
+
+    },
+    {
+        "id": 21,
+        "name": " Chhorii",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "Anees Bazmee"
+    },
+     {
+        "id": 22,
+        "name": "OPEN WATER",
+        "yearReleased": "2003",
+        "language": "English",
+        "director": "Chris Kentis"
+    },
+    
+     
+     {
+        "id": 27,
+        "name": "kanchan",
+        "yearReleased": "2013",
+        "language": "Hindi",
+        "director": "ssr"
+
+    },
+    {
+        "id":21,
+        "name":"Host",
+        "yearRealeased":"2020",
+        "language":"English",
+        "director":"Rob Savage"
+    },
+       {
+        "id": 22,
+        "name": "The Exorcist",
+        "yearReleased": "1973",
+        "language": "English",
+        "director": "Mike P. Nelson"
+
+
+    },
+     {
+        "id": 21,
+        "name": "The NUN",
+        "yearReleased": "2018",
+        "language": "English",
+        "director": "Corin Hardy"
+     },
 {
   "id": 52,
    "name": "Alone",
@@ -502,6 +719,20 @@
     "yearReleased": "2022",
     "language" : "English",
     "director": "	William Brent Bell"
+    },
+    {
+    "name": "The Woman in Black",
+    "yearReleased": "2012",
+    "language" : "English",
+    "director": "James Watkins"
+},
+
+{
+  "id": 55,
+   "name": "Innocent Curse",
+    "yearReleased": "2017",
+    "language" : "japanese",
+    "director": "Takashi Shimizu"
 }
  
 ]
