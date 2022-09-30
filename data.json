@@ -117,5 +117,12 @@
         "yearReleased": "2022",
         "language": "English",
         "director": "Ti West"
+    },
+    {
+        "id": 25,
+        "name": "Nope",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Jordan Peele"
     }
 ]
