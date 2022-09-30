@@ -372,7 +372,10 @@
         "language": "English",
         "director": "Mike Flannagan"
     },
-{
+   {
+        "id": 29,
+
+
         "id": 29,
         "name": "Orphan",
         "yearReleased": "2009",
@@ -384,8 +387,7 @@
         "yearReleased": "2022",
         "language": "English",
         "director": "Kevin Ko"
-
-
+    },
     }
      {
         "id": 32,
@@ -402,6 +404,7 @@
         "yearReleased": "2019",
         "language": "Hindi",
         "director": "Amar Kaushik"
+
  
         },
  {
