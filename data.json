@@ -639,8 +639,38 @@
         "name": "The Woman in Black",
         "yearReleased": "2012",
         "language": "English",
-        "director": "James Watkins"
-    },
+
+        "director": "Corin Hardy"
+     },
+{
+  "id": 52,
+   "name": "Alone",
+    "yearReleased": "2015",
+    "language" : "Hindi",
+    "director": "Bhushan Patel"
+},
+{
+  "id": 53,
+   "name": "vyanki the Dian",
+    "yearReleased": "2022",
+    "language" : "Russian",
+    "director": "Vishal chauhan"
+},
+{
+  "id": 54,
+   "name": "The Woman in Black",
+    "yearReleased": "2012",
+    "language" : "English",
+    "director": "James Watkins"
+},
+
+{
+  "id": 55,
+   "name": "Innocent Curse",
+    "yearReleased": "2017",
+    "language" : "japanese",
+    "director": "Takashi Shimizu"
+},
     {
         "id": 55,
         "name": "Innocent Curse",
@@ -649,6 +679,7 @@
         "director": "Takashi Shimizu"
     },
     {
+
       "id": 56,
       "name": "Lights Out ",
       "yearReleased": "2016",
