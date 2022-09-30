@@ -168,4 +168,11 @@
         "language": "English",
         "director": "Anees Bazmee"
     }
+     {
+        "id": 23,
+        "name": "The Midnigth club",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Mike Flannagan"
+    },
 ]
