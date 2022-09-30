@@ -145,5 +145,12 @@
         "director": "Mike P. Nelson"
 
 
+    },
+    {
+        "id": 29,
+        "name": "IT",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "Andrés Muschietti"
     }
 ]
