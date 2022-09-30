@@ -1,0 +1,23 @@
+{
+  "name": "first_micro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirmitchattoo/horror-movies-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nirmitchattoo/horror-movies-api/issues"
+  },
+  "homepage": "https://github.com/nirmitchattoo/horror-movies-api#readme"
+}

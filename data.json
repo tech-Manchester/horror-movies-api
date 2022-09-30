@@ -1,13 +1,23 @@
 [
-{
-"id":1,
-"name":"Host",
-"yearReleased":"2020",
-"language":"English",
- "director":"Andy Newbery",
- },
- 
- 
-
+    {
+        "id": 1,
+        "name": "Host",
+        "yearReleased": "2020",
+        "language": "English",
+        "director": "Andy dataser"
+    },
+    {
+        "id": 2,
+        "name": "Host",
+        "yearReleased": "2018",
+        "language": "English",
+        "director": "Andy Newber"
+    },
+    {
+        "id": 3,
+        "name": "The Ring",
+        "yearReleased": "2004",
+        "language": "English",
+        "director": "Andy Newsir"
+    }
 ]
-  
