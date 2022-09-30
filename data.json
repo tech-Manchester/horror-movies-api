@@ -153,20 +153,14 @@
         "director": "Mike P. Nelson"
 
 
-    }
-    
-
-
     },
+ 
      {
     "id": 21,
     "name": "Psycho",
     "yearReleased": "1960",
     "language": "English",
     "director": " Alfred Hitchcock"
-}
-
-
     },
     {
         "id": 21,
@@ -209,7 +203,7 @@
 
 
 
-    }
+    },
      {
         "id": 26,
         "name": "6-5=2",
@@ -218,6 +212,13 @@
         "director": "K S Ashoka"
 
     },
+    {
+        "id": 27,
+        "name": "Midsommar",
+        "yearReleased": "2019",
+        "language": "English",
+        "director": " Ari Aster"
 
+    }
 
 ]
