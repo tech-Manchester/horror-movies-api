@@ -526,6 +526,32 @@
         "language": "English",
         "director": "Anees Bazmee"
     },
+   {
+        "id": 25,
+        "name": "Bhoot,
+        "yearReleased": "2022",
+        "language": "Hindi",
+        "director": "Bhanu Pratap Singh"
+
+
+
+    },
+     {
+        "id": 26,
+        "name": "6-5=2",
+        "yearReleased": "2013",
+        "language": "Kannada",
+        "director": "K S Ashoka"
+
+    },
+    {
+        "id": 27,
+        "name": "kanchan",
+        "yearReleased": "2013",
+        "language": "Hindi",
+        "director": "ssr"
+
+    },
        {
         "id": 22,
         "name": "The Exorcist",
