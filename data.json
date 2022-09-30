@@ -40,5 +40,12 @@
         "yearReleased": "2013",
         "language": "Hindi",
         "director": "Kannan Iyer"
+    },
+    {
+        "id": 6,
+        "name": "The Midnigth club",
+        "yearReleased": "2022",
+        "language": "English",
+        "director": "Mike Flannagan"
     }
 ]
