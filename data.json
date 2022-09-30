@@ -143,7 +143,12 @@
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
-
-
-    }
+    },
+    {
+        "id": 24,
+        "name": "IT",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "Andrés Muschietti"
+     }
 ]
