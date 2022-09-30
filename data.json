@@ -564,7 +564,92 @@
     "director": "Priyadarshan"
 },
 
+
+   {
+          "id": 26,
+          "name": "Host",
+          "yearReleased": "2020",
+          "language": "English",
+          "director": "Andy dataser"
+    }
+    
+       {
+          "id": 27,
+          "name": "Dead Silence",
+          "yearReleased": "2007",
+          "language": "English",
+          "director": "James Wan"
+    }
+    },
+      {
+      "id": 7008,
+      "name": "Handjob Cabin",
+      "yearReleased": "2015",
+      "language": "English",
+      "director": "Bennet Silverman"
+  },
+    
 ]
   
   
   
+{
+        "id": 26,
+        "name": "6-5=2",
+        "yearReleased": "2013",
+        "language": "Kannada",
+        "director": "K S Ashoka"
+
+    },
+    {
+        "id": 21,
+        "name": " Chhorii",
+        "yearReleased": "2017",
+        "language": "English",
+        "director": "Vishal Furia"
+     }
+     {
+        "id": 27,
+        "name": "kanchan",
+        "yearReleased": "2013",
+        "language": "Hindi",
+        "director": "ssr"
+
+    },
+    {
+        "id":21,
+        "name":"Host",
+        "yearRealeased":"2020",
+        "language":"English",
+        "director":"Rob Savage"
+    },
+       {
+        "id": 22,
+        "name": "The Exorcist",
+        "yearReleased": "1973",
+        "language": "English",
+        "director": "William Friedkin"
+    },
+{
+  "id": 52,
+   "name": "Alone",
+    "yearReleased": "2015",
+    "language" : "Hindi",
+    "director": "Bhushan Patel"
+},
+{
+  "id": 53,
+   "name": "vyanki the Dian",
+    "yearReleased": "2022",
+    "language" : "Russian",
+    "director": "Vishal chauhan"
+},
+{
+  "id": 54,
+   "name": "The Woman in Black",
+    "yearReleased": "2012",
+    "language" : "English",
+    "director": "James Watkins"
+}
+ 
+]
