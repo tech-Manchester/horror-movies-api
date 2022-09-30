@@ -168,8 +168,8 @@
         "director": "William Friedkin"
 
 
-    }
-     {
+    },
+    {
         "id": 20,
         "name": "Wrong Turn",
         "yearReleased": "2021",
@@ -1043,5 +1043,12 @@
         "yearReleased": "2017",
         "language": "English",
         "director": "Andy Muschietti"
+    },
+    {
+        "id": 45,
+        "name": "Puppet Master 5: The Final Chapter",
+        "yearReleased": "1994",
+        "language": "English",
+        "director": "Jeff Burr"
     }
 ]
