@@ -111,23 +111,33 @@
         "language": "English",
         "director": "James Wan"
     },
+    
     {
         "id": 17,
+        "name": "hello mini",
+        "yearReleased": "2014",
+        "language": "hindi",
+        "director": "ekta kapoor"
+    },
+
+    {
+        "id": 18,
         "name": "X",
         "yearReleased": "2022",
         "language": "English",
         "director": "Ti West"
     },
-
+    
     {
-        "id": 18,
+        "id": 19,
         "name": " Barbarian",
         "yearReleased": "2022",
         "language": "English",
         "director": "TZach Cregger"
-
+     },
+     
     {
-        "id": 19,
+        "id": 20,
         "name": "Wrong Turn",
         "yearReleased": "2021",
         "language": "English",
