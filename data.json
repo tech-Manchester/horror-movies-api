@@ -270,7 +270,8 @@
       "yearReleased": "2022",
       "language": "English",
       "director": "Mike Flannagan"
-  }
+  },
+  {
 
         "id": 25,
         "name": "Bhoot,
@@ -331,7 +332,7 @@
         "director": "James Wan"
 
 
-    }
+    },
     {
         "id": 21,
         "name": "Mahal",
@@ -384,7 +385,7 @@
         "director": "Mike Flannagan"
     },
    {
-        "id": 29,
+   
 
 
         "id": 29,
@@ -414,13 +415,14 @@
         "yearReleased": "2009",
         "language": "Telugu",
         "director": "Kodi Ramakrishna"
+    },{
         "id": 31,
         "name": "Incantation",
         "yearReleased": "2022",
         "language": "English",
         "director": "Kevin Ko"
     },
-    }
+    
      {
         "id": 32,
         "name": "Bhool Bhulaiyaa  ",
@@ -428,7 +430,7 @@
         "language": "Hindi",
         "director": "Priyadarshan"
 
-    }
+    },
 
     },{
     "id": 32,
@@ -485,6 +487,13 @@
     "yearReleased": "2022",
     "language" : "Russian",
     "director": "Vishal chauhan"
+},
+{
+  "id": 54,
+   "name": "shaapit",
+    "yearReleased": "2010",
+    "language" : "Hindi",
+    "director": "Vikram Bhatt"
 }
  
 ]
