@@ -883,6 +883,15 @@
 
     
     {
+        "id": 28,
+        "name": "The Grudge",
+        "yearReleased": "2004",
+        "language": "Japanese",
+        "director": "Takashi Shimizu"
+    },
+
+    
+    {
          "id": 21,
         "name": "Haunted – 3D",
         "yearReleased": "2011",
