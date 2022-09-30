@@ -56,5 +56,14 @@
         "language": "English",
         "director": "James Wan"
 
+    },
+    {
+        "id": 9,
+        "name": "The Unholy",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "Evan Spiliotopoulos"
+
     }
+        
 ]
