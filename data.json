@@ -455,16 +455,6 @@
         "director": "scott derrickson"
     },
 
-    }
-{
-        "id": 28,
-        "name": "Train to Busan",
-        "yearReleased": " 2016",
-        "language": "korean",
-        "director": "Yeon Sang-ho"
-
-
-    }
     {
     "id": 27,
         "name": "sinister2",
@@ -475,6 +465,7 @@
 
 
  
+        },
 {
     "id": 33,
         "name": "Tumbad",
@@ -511,6 +502,12 @@
     "yearReleased": "2022",
     "language" : "Russian",
     "director": "Vishal chauhan"
-}
- 
+},
+{
+  "id": 56,
+   "name": "Conjuring",
+    "yearReleased": "2013",
+    "language" : "English",
+    "director": "James Wan"
+},
 ]
