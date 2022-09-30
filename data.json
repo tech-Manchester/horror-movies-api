@@ -688,8 +688,17 @@
         "name": "The Exorcist",
         "yearReleased": "1973",
         "language": "English",
-        "director": "William Friedkin"
-    }
+        "director": "Mike P. Nelson"
+
+
+    },
+     {
+        "id": 21,
+        "name": "The NUN",
+        "yearReleased": "2018",
+        "language": "English",
+        "director": "Corin Hardy"
+     },
 {
   "id": 52,
    "name": "Alone",
