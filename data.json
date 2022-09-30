@@ -111,16 +111,13 @@
         "language": "English",
         "director": "James Wan"
     },
-    
     {
         "id": 17,
         "name": "Kanchana",
         "yearReleased": "2016",
         "language": "Tamil",
-        "director": "Indian Insan"      
-
-    },   
-
+        "director": "Indian Insan"
+    },
     {
         "id": 18,
         "name": "X",
@@ -128,22 +125,32 @@
         "language": "English",
         "director": "Ti West"
     },
-    
     {
         "id": 19,
         "name": " Barbarian",
         "yearReleased": "2022",
         "language": "English",
         "director": "TZach Cregger"
-     },
-     
+    },
     {
         "id": 20,
         "name": "Wrong Turn",
         "yearReleased": "2021",
         "language": "English",
         "director": "Mike P. Nelson"
-
-
+    },
+    {
+        "id": 21,
+        "name": "World War Z",
+        "yearReleased": "2013",
+        "language": "English",
+        "director": "Marc Forster"
+    },
+    {
+        "id": 22,
+        "name": "The Nun",
+        "yearReleased": "2018",
+        "language": "English",
+        "director": "Corin Hardy"
     }
 ]
