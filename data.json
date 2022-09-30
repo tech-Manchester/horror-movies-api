@@ -1003,7 +1003,18 @@
         "language": "Hindi",
         "director": "Vikram Bhatt"
 
+    },
+    
+    {
+        "id": 21,
+        "name": "The Exorcist",
+        "yearReleased": "1973",
+        "language": "English",
+        "director": "John boorman"
+
+
     }
+    
 
 ]
 
