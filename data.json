@@ -987,6 +987,13 @@
         "director": "Vikram Bhatt"
     },
     {
+        "id": 22,
+        "name": "The Conjuring 2",
+        "yearReleased": "2016",
+        "language": "English",
+        "director": "James Wan"
+    },
+    {
         "id": 23,
         "name": "Resident Evil",
         "yearReleased": "2002",
