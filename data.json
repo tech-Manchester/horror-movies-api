@@ -57,10 +57,22 @@
 
     },
     {
-       "id": 9,
+
+        "id": 9,
+        "name": "The Unholy",
+        "yearReleased": "2021",
+        "language": "English",
+        "director": "Evan Spiliotopoulos"
+
+    },
+    
+    {    
+
+       "id": 10,
        "name": "Lights Out ",
        "yearReleased": "2016",
        "language": "English",
        "director": "David F. Sandberg"
     }   
+
 ]
