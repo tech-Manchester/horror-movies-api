@@ -145,5 +145,15 @@
         "director": "Mike P. Nelson"
 
 
+    },
+    
+     {
+        "id": 21,
+        "name": "Dybbuk",
+        "yearReleased": "2021",
+        "language": "Hindi",
+        "director": "Jay Krishnan"
+
+
     }
 ]
