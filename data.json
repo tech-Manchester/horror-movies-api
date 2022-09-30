@@ -146,19 +146,6 @@
 
     },
      {
-        "id": 22,
-        "name": "The Weird Man",
-        "yearReleased": "2021",
-        "language": "English",
-        "director": "Mike P. Nelson"
-
-
-    }
-    
-
-
-    },
-     {
     "id": 21,
     "name": "Psycho",
     "yearReleased": "1960",
@@ -219,5 +206,13 @@
 
     },
 
+       {
+        "id": 27,
+        "name": "1920",
+        "yearReleased": "2008",
+        "language": "Hindi",
+        "director": "Vikram Bhatt"
+
+    },
 
 ]
