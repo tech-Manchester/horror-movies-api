@@ -163,5 +163,14 @@
         "director": "Hardik Mehta"
 
 
+    },
+        {
+        "id": 23,
+        "name": "Stree",
+        "yearReleased": "2018",
+        "language": "English",
+        "director": "Amar Kaushik"
+
+
     }
 ]
