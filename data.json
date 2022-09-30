@@ -350,6 +350,16 @@
 
 
     }
+    {    
+        "id": 21,
+        "name": "The Exorcist",
+        "yearReleased": "1973",
+        "language": "English",
+        "director": "William Friedkin"
+
+
+    }
+
      {
         "id": 32,
         "name": "Bhool Bhulaiyaa  ",
@@ -358,7 +368,8 @@
         "director": "Priyadarshan"
 
 
-    },{
+    },
+    {
     "id": 32,
         "name": "stree",
         "yearReleased": "2019",
@@ -366,5 +377,6 @@
         "director": "Amar Kaushik"
  
         }
+ 
  
 ]
