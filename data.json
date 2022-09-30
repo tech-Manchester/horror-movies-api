@@ -1013,5 +1013,12 @@
         "yearReleased": "2017",
         "language": "English",
         "director": "Andy Muschietti"
+    },
+    {
+        "id": 24,
+        "name": "Annabelle comes home",
+        "yearReleased": "2019",
+        "language": "English",
+        "director": "Gary Dauberman"
     }
 ]
