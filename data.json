@@ -888,6 +888,13 @@
         "yearReleased": "2011",
         "language": "Hindi",
         "director": "Vikram Bhatt"
+    },
+     {
+         "id": 22,
+        "name": "The Conjuring 2",
+        "yearReleased": "2016",
+        "language": "English",
+        "director": "James Wan"
     }
 
 ]
