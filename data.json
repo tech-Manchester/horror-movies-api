@@ -777,8 +777,14 @@
         "yearReleased": "2021",
         "language": "Hindi",
         "director": "BANSALI"
-
-
+    },
+    
+    {
+        "id": 21,
+        "name": "The Shining",
+        "yearReleased": "1980",
+        "language": "English",
+        "director": "Stanley Kubrick"
     },
      {      
         "id": 52,
@@ -883,5 +889,6 @@
         "language": "Hindi",
         "director": "Vikram Bhatt"
     }
+
 ]
 
