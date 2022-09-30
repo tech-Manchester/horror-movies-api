@@ -34,4 +34,11 @@
         "language": "English",
         "director": "James Wan"
     }
+    {
+        "id": 5,
+        "name": "Ek Thi Daayan",
+        "yearReleased": "2013",
+        "language": "Hindi",
+        "director": "Kannan Iyer"
+    }
 ]
