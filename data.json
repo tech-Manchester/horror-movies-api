@@ -4593,6 +4593,7 @@
       "language": "English",
       "director": "Dan Trachtenberg"
   },
+
   {
     "id": 27,
       "name": "Martyyrs",
@@ -4600,6 +4601,30 @@
       "language": "French",
       "director": "Pascal Laugier"
 
-  }
-  ]
 
+  {
+      "id": 55,
+      "name": "Kanchana",
+      "yearReleased": "2017",
+      "language": "hindi",
+      "director": "P.Vas Shivalinga"
+},
+   {
+      "id": 28,
+      "name": "Bhootiya",
+      "yearReleased": "2020",
+      "language": "Hindi",
+      "director": "Vishal Dadlanni"
+
+
+  },
+      
+  
+{
+          "id": 101,
+          "name": "The Exorcist",
+          "yearReleased": "1973",
+          "language": "English",
+          "director": "William Friedkin"
+      },
+]
