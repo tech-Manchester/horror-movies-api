@@ -4617,6 +4617,20 @@
 
 
   },
+  {
+    "id": 100,
+    "name": "Wrong Turn",
+    "yearReleased": "2021",
+    "language": "English",
+    "director": "Mike P. Nelson"
+},
+{
+    "id": 102,
+    "name": "Chhorii",
+    "yearReleased": "2021",
+    "language": "hindi",
+    "director": "Vishal Furia"
+},
 
 {
           "id": 101,
