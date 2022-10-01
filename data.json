@@ -4593,12 +4593,22 @@
       "language": "English",
       "director": "Dan Trachtenberg"
   },
+
+  {
+      "id": 55,
+      "name": "Kanchana",
+      "yearReleased": "2017",
+      "language": "hindi",
+      "director": "P.Vas Shivalinga"
+
    {
       "id": 28,
       "name": "Bhootiya",
       "yearReleased": "2020",
       "language": "Hindi",
       "director": "Vishal Dadlanni"
+
   }
+      
   ]
 
