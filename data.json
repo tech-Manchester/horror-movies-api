@@ -4617,6 +4617,20 @@
 
 
   },
+  {
+    "id": 100,
+    "name": "Wrong Turn",
+    "yearReleased": "2021",
+    "language": "English",
+    "director": "Mike P. Nelson"
+},
+{
+    "id": 102,
+    "name": "Chhorii",
+    "yearReleased": "2021",
+    "language": "hindi",
+    "director": "Vishal Furia"
+},
 
 {
           "id": 101,
@@ -4632,5 +4646,26 @@
           "language": "English",
           "director": "Stuart Rosenberg"
    },
+
+      {
+            "id": 201,
+
+          "name": "Avatar",
+
+          "yearReleased": "2009",
+
+          "language": "English",
+
+          "director": "James Cameron"
+
+},
+
+   {
+    "id": 102,
+    "name": "Resident Evil",
+    "yearReleased": "2002",
+    "language": "English",
+    "director": "Paul W.S. Anderson"
+}
 
 ]
