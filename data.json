@@ -4659,7 +4659,13 @@
           "director": "James Cameron"
 
 },
-
+{
+    "id": 152,
+    "name": "13B: Fear Has a New Address",
+    "yearReleased": "2009",
+    "language": "Hindi",
+    "director": "Vikram Kumar"
+},
    {
     "id": 102,
     "name": "Resident Evil",
