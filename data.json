@@ -4595,12 +4595,20 @@
   },
 
   {
+    "id": 27,
+      "name": "Martyyrs",
+      "yearReleased": "2008",
+      "language": "French",
+      "director": "Pascal Laugier"
+
+
+  {
       "id": 55,
       "name": "Kanchana",
       "yearReleased": "2017",
       "language": "hindi",
       "director": "P.Vas Shivalinga"
-
+},
    {
       "id": 28,
       "name": "Bhootiya",
@@ -4608,9 +4616,10 @@
       "language": "Hindi",
       "director": "Vishal Dadlanni"
 
-  }
+
+  },
       
-  ]
+  
 {
           "id": 101,
           "name": "The Exorcist",
@@ -4618,3 +4627,4 @@
           "language": "English",
           "director": "William Friedkin"
       },
+]
