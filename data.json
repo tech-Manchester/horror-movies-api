@@ -4667,19 +4667,42 @@
     "language": "English",
     "director": "Paul W.S. Anderson"
 },
-{
+
+   {
     "id": 103,
     "name": "Kankal",
     "yearReleased": "1950",
     "language": "Bengali",
     "director": "Naresh Mitra"
 },
-{
+    {
     "id": 102,
     "name": "Flat No. 609",
     "yearReleased": "2018",
     "language": "Bengali",
     "director": "Arindam Bhattacharya"
+
+    {
+    "id": 103,
+    "name": "Curse of the nun",
+    "yearReleased": "2018",
+    "language": "English",
+    "director": "Aaron Mirtes"
+    },
+
+    {
+    "id": 104,
+    "name": "Orphan: First Kill",
+    "yearReleased": "2022",
+    "language": "English",
+    "director": "William Brent Bell"
+},
+    {
+    "id": 105,
+    "name": "The conjuring",
+    "yearReleased": "2013",
+    "language": "English",
+    "director": "James Wan"  
 }
 
 ]
