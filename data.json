@@ -4624,5 +4624,13 @@
           "yearReleased": "1973",
           "language": "English",
           "director": "William Friedkin"
-   }
+   },
+    {
+          "id": 114,
+          "name": "The Amityville Horror",
+          "yearReleased": "1979",
+          "language": "English",
+          "director": "Stuart Rosenberg"
+   },
+
 ]
