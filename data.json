@@ -4638,12 +4638,26 @@
           "yearReleased": "1973",
           "language": "English",
           "director": "William Friedkin"
-   }
+
+   },
+      {
+            "id": 201,
+
+          "name": "Avatar",
+
+          "yearReleased": "2009",
+
+          "language": "English",
+
+          "director": "James Cameron"
+
+},
+
    {
     "id": 102,
     "name": "Resident Evil",
     "yearReleased": "2002",
     "language": "English",
     "director": "Paul W.S. Anderson"
-},
+}
 ]
