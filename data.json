@@ -4593,10 +4593,6 @@
       "language": "English",
       "director": "Dan Trachtenberg"
   },
-
-
-
-
   {
     "id": 27,
       "name": "Martyyrs",
@@ -4628,5 +4624,5 @@
           "yearReleased": "1973",
           "language": "English",
           "director": "William Friedkin"
-      }
+   }
 ]
