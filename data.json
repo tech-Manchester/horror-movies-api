@@ -4727,6 +4727,19 @@
           "language": "Hindi",
           "director": "P. Vasu"  
       },
-
+   {
+    "id": 107,
+    "name": "The Cabin in woods 2",
+    "yearReleased": "2012",
+    "language": "English",
+    "director": "Drew Goddard"  
+},
+     {
+          "id": 108,
+          "name": "Kanchana Returns 2",
+          "yearReleased": "2017",
+          "language": "Hindi",
+          "director": "P. Vasu"  
+      },
 
 ]
