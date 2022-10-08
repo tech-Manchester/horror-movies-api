@@ -4711,12 +4711,22 @@
     "language": "English",
     "director": "James Wan"  
 },
+
+
           {
     "id": 106,
     "name": "The Cabin in woods",
     "yearReleased": "2012",
     "language": "English",
     "director": "Drew Goddard"  
-}
+},
+     {
+          "id": 105,
+          "name": "Kanchana Returns",
+          "yearReleased": "2017",
+          "language": "Hindi",
+          "director": "P. Vasu"  
+      },
+
 
 ]
