@@ -4710,6 +4710,13 @@
     "yearReleased": "2013",
     "language": "English",
     "director": "James Wan"  
-}
+},
+     {
+          "id": 105,
+          "name": "Kanchana Returns",
+          "yearReleased": "2017",
+          "language": "Hindi",
+          "director": "P. Vasu"  
+      },
 
 ]
