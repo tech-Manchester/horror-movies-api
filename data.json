@@ -4741,5 +4741,19 @@
           "language": "Hindi",
           "director": "P. Vasu"  
       },
+        {
+          "id": 109,
+          "name": "It Chapter 1",
+          "yearReleased": "2017",
+          "language": "English, Hindi",
+          "director": "Andy Muschietti"  
+      },
+      {
+          "id": 110,
+          "name": "The Nun",
+          "yearReleased": "2018",
+          "language": "English, Hindi",
+          "director": "Corin Hardy"  
+      },
 
 ]
