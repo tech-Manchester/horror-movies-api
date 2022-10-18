@@ -4755,5 +4755,12 @@
           "language": "English, Hindi",
           "director": "Corin Hardy"  
       },
+       {
+      "id": 111,
+      "name": "IT",
+      "yearReleased": "2017",
+      "language": "English",
+      "director": "Andy Muschietti"
+  },
 
 ]
