@@ -4762,10 +4762,20 @@
           "name": "Jennifers body",
           "yearReleased": "2007",
           "language": "English, Hindi",
-          "director": "Karyn Kusama"  
+
+          "director": "Corin Hardy"  
+      },
+       {
+      "id": 111,
+      "name": "IT",
+      "yearReleased": "2017",
+      "language": "English",
+      "director": "Andy Muschietti"
+   
       }
 
       
+
 
 
 ]
