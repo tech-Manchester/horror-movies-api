@@ -4712,6 +4712,15 @@
     "director": "James Wan"  
 },
 
+    {
+    "id": 105,
+    "name": "RAW",
+    "yearReleased": "2016",
+    "language": "French",
+    "director": "Julia Ducournau"  
+},
+
+
 
           {
     "id": 106,
@@ -4748,11 +4757,12 @@
           "language": "English, Hindi",
           "director": "Andy Muschietti"  
       },
-      {
+       {
           "id": 110,
-          "name": "The Nun",
-          "yearReleased": "2018",
+          "name": "Jennifers body",
+          "yearReleased": "2007",
           "language": "English, Hindi",
+
           "director": "Corin Hardy"  
       },
        {
@@ -4761,6 +4771,11 @@
       "yearReleased": "2017",
       "language": "English",
       "director": "Andy Muschietti"
-  },
+   
+      }
+
+      
+
+
 
 ]
