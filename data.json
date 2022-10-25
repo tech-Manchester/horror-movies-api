@@ -4757,13 +4757,15 @@
           "language": "English, Hindi",
           "director": "Andy Muschietti"  
       },
-      {
+       {
           "id": 110,
-          "name": "The Nun",
-          "yearReleased": "2018",
+          "name": "Jennifers body",
+          "yearReleased": "2007",
           "language": "English, Hindi",
-          "director": "Corin Hardy"  
+          "director": "Karyn Kusama"  
       }
+
+      
 
 
 ]
